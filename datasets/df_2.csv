@@ -1,0 +1,964 @@
+,Indicator,Residence_Type,unit,Region,Year,Value
+12,Nights spent,Domestic country,Number,Piemonte,2021,417993
+13,Nights spent,Domestic country,Number,Piemonte,2022,679232
+14,Nights spent,Domestic country,Number,Piemonte,2023,888610
+17,Nights spent,Domestic country,Number,Piemonte,2021,14771
+18,Nights spent,Domestic country,Number,Piemonte,2022,22180
+19,Nights spent,Domestic country,Number,Piemonte,2023,23607
+22,Nights spent,Domestic country,Number,Piemonte,2021,12132
+23,Nights spent,Domestic country,Number,Piemonte,2022,19215
+24,Nights spent,Domestic country,Number,Piemonte,2023,24343
+27,Nights spent,Domestic country,Number,Piemonte,2021,70544
+28,Nights spent,Domestic country,Number,Piemonte,2022,91804
+29,Nights spent,Domestic country,Number,Piemonte,2023,104417
+32,Nights spent,Domestic country,Number,Piemonte,2021,38358
+33,Nights spent,Domestic country,Number,Piemonte,2022,47511
+34,Nights spent,Domestic country,Number,Piemonte,2023,60790
+37,Nights spent,Domestic country,Number,Piemonte,2021,107543
+38,Nights spent,Domestic country,Number,Piemonte,2022,151980
+39,Nights spent,Domestic country,Number,Piemonte,2023,183899
+42,Nights spent,Domestic country,Number,Piemonte,2021,31539
+43,Nights spent,Domestic country,Number,Piemonte,2022,42367
+44,Nights spent,Domestic country,Number,Piemonte,2023,54352
+47,Nights spent,Domestic country,Number,Piemonte,2021,30659
+48,Nights spent,Domestic country,Number,Piemonte,2022,39972
+49,Nights spent,Domestic country,Number,Piemonte,2023,53491
+52,Nights spent,Domestic country,Number,Valle d'Aosta,2021,287807
+53,Nights spent,Domestic country,Number,Valle d'Aosta,2022,450057
+54,Nights spent,Domestic country,Number,Valle d'Aosta,2023,503398
+57,Nights spent,Domestic country,Number,Liguria,2021,219198
+58,Nights spent,Domestic country,Number,Liguria,2022,271213
+59,Nights spent,Domestic country,Number,Liguria,2023,324112
+62,Nights spent,Domestic country,Number,Liguria,2021,294577
+63,Nights spent,Domestic country,Number,Liguria,2022,376830
+64,Nights spent,Domestic country,Number,Liguria,2023,449644
+67,Nights spent,Domestic country,Number,Liguria,2021,376019
+68,Nights spent,Domestic country,Number,Liguria,2022,477561
+69,Nights spent,Domestic country,Number,Liguria,2023,582082
+72,Nights spent,Domestic country,Number,Liguria,2021,305284
+73,Nights spent,Domestic country,Number,Liguria,2022,292117
+74,Nights spent,Domestic country,Number,Liguria,2023,299505
+77,Nights spent,Domestic country,Number,Lombardia,2021,51137
+78,Nights spent,Domestic country,Number,Lombardia,2022,69759
+79,Nights spent,Domestic country,Number,Lombardia,2023,97136
+82,Nights spent,Domestic country,Number,Lombardia,2021,98660
+83,Nights spent,Domestic country,Number,Lombardia,2022,107976
+84,Nights spent,Domestic country,Number,Lombardia,2023,126864
+87,Nights spent,Domestic country,Number,Lombardia,2021,60103
+88,Nights spent,Domestic country,Number,Lombardia,2022,67278
+89,Nights spent,Domestic country,Number,Lombardia,2023,83284
+92,Nights spent,Domestic country,Number,Lombardia,2021,173848
+93,Nights spent,Domestic country,Number,Lombardia,2022,242841
+94,Nights spent,Domestic country,Number,Lombardia,2023,277782
+97,Nights spent,Domestic country,Number,Lombardia,2021,109461
+98,Nights spent,Domestic country,Number,Lombardia,2022,151309
+99,Nights spent,Domestic country,Number,Lombardia,2023,194533
+102,Nights spent,Domestic country,Number,Lombardia,2021,212690
+103,Nights spent,Domestic country,Number,Lombardia,2022,260785
+104,Nights spent,Domestic country,Number,Lombardia,2023,303842
+107,Nights spent,Domestic country,Number,Lombardia,2021,31206
+108,Nights spent,Domestic country,Number,Lombardia,2022,45352
+109,Nights spent,Domestic country,Number,Lombardia,2023,58944
+112,Nights spent,Domestic country,Number,Lombardia,2021,9730
+113,Nights spent,Domestic country,Number,Lombardia,2022,10685
+114,Nights spent,Domestic country,Number,Lombardia,2023,13024
+117,Nights spent,Domestic country,Number,Lombardia,2021,11900
+118,Nights spent,Domestic country,Number,Lombardia,2022,18418
+119,Nights spent,Domestic country,Number,Lombardia,2023,27007
+122,Nights spent,Domestic country,Number,Lombardia,2021,27199
+123,Nights spent,Domestic country,Number,Lombardia,2022,41004
+124,Nights spent,Domestic country,Number,Lombardia,2023,49822
+127,Nights spent,Domestic country,Number,Lombardia,2021,714052
+128,Nights spent,Domestic country,Number,Lombardia,2022,986564
+129,Nights spent,Domestic country,Number,Lombardia,2023,1385226
+132,Nights spent,Domestic country,Number,Lombardia,2021,44403
+133,Nights spent,Domestic country,Number,Lombardia,2022,54510
+134,Nights spent,Domestic country,Number,Lombardia,2023,79484
+137,Nights spent,Domestic country,Number,Abruzzo,2021,111150
+138,Nights spent,Domestic country,Number,Abruzzo,2022,186863
+139,Nights spent,Domestic country,Number,Abruzzo,2023,217651
+142,Nights spent,Domestic country,Number,Abruzzo,2021,124550
+143,Nights spent,Domestic country,Number,Abruzzo,2022,147061
+144,Nights spent,Domestic country,Number,Abruzzo,2023,162620
+147,Nights spent,Domestic country,Number,Abruzzo,2021,83213
+148,Nights spent,Domestic country,Number,Abruzzo,2022,94265
+149,Nights spent,Domestic country,Number,Abruzzo,2023,126873
+152,Nights spent,Domestic country,Number,Abruzzo,2021,127707
+153,Nights spent,Domestic country,Number,Abruzzo,2022,152330
+154,Nights spent,Domestic country,Number,Abruzzo,2023,193013
+157,Nights spent,Domestic country,Number,Molise,2021,10044
+158,Nights spent,Domestic country,Number,Molise,2022,15272
+159,Nights spent,Domestic country,Number,Molise,2023,18729
+162,Nights spent,Domestic country,Number,Molise,2021,38586
+163,Nights spent,Domestic country,Number,Molise,2022,47057
+164,Nights spent,Domestic country,Number,Molise,2023,65747
+167,Nights spent,Domestic country,Number,Campania,2021,23029
+168,Nights spent,Domestic country,Number,Campania,2022,41755
+169,Nights spent,Domestic country,Number,Campania,2023,63450
+172,Nights spent,Domestic country,Number,Campania,2021,9351
+173,Nights spent,Domestic country,Number,Campania,2022,10792
+174,Nights spent,Domestic country,Number,Campania,2023,15752
+177,Nights spent,Domestic country,Number,Campania,2021,630763
+178,Nights spent,Domestic country,Number,Campania,2022,1071859
+179,Nights spent,Domestic country,Number,Campania,2023,1514525
+182,Nights spent,Domestic country,Number,Campania,2021,4894
+183,Nights spent,Domestic country,Number,Campania,2022,10763
+184,Nights spent,Domestic country,Number,Campania,2023,14119
+187,Nights spent,Domestic country,Number,Campania,2021,359411
+188,Nights spent,Domestic country,Number,Campania,2022,386833
+189,Nights spent,Domestic country,Number,Campania,2023,417748
+192,Nights spent,Domestic country,Number,Puglia,2021,146645
+193,Nights spent,Domestic country,Number,Puglia,2022,173450
+194,Nights spent,Domestic country,Number,Puglia,2023,208822
+197,Nights spent,Domestic country,Number,Puglia,2021,283049
+198,Nights spent,Domestic country,Number,Puglia,2022,308556
+199,Nights spent,Domestic country,Number,Puglia,2023,340207
+202,Nights spent,Domestic country,Number,Puglia,2021,1166789
+203,Nights spent,Domestic country,Number,Puglia,2022,1184966
+204,Nights spent,Domestic country,Number,Puglia,2023,1288732
+207,Nights spent,Domestic country,Number,Puglia,2021,152676
+208,Nights spent,Domestic country,Number,Puglia,2022,164275
+209,Nights spent,Domestic country,Number,Puglia,2023,182533
+212,Nights spent,Domestic country,Number,Puglia,2021,334489
+213,Nights spent,Domestic country,Number,Puglia,2022,416284
+214,Nights spent,Domestic country,Number,Puglia,2023,515706
+217,Nights spent,Domestic country,Number,Puglia,2021,24401
+218,Nights spent,Domestic country,Number,Puglia,2022,37471
+219,Nights spent,Domestic country,Number,Puglia,2023,52809
+222,Nights spent,Domestic country,Number,Basilicata,2021,27240
+223,Nights spent,Domestic country,Number,Basilicata,2022,35949
+224,Nights spent,Domestic country,Number,Basilicata,2023,38085
+227,Nights spent,Domestic country,Number,Basilicata,2021,97915
+228,Nights spent,Domestic country,Number,Basilicata,2022,125684
+229,Nights spent,Domestic country,Number,Basilicata,2023,132398
+232,Nights spent,Domestic country,Number,Calabria,2021,99108
+233,Nights spent,Domestic country,Number,Calabria,2022,109717
+234,Nights spent,Domestic country,Number,Calabria,2023,114050
+237,Nights spent,Domestic country,Number,Calabria,2021,26907
+238,Nights spent,Domestic country,Number,Calabria,2022,31499
+239,Nights spent,Domestic country,Number,Calabria,2023,34095
+242,Nights spent,Domestic country,Number,Calabria,2021,42385
+243,Nights spent,Domestic country,Number,Calabria,2022,48186
+244,Nights spent,Domestic country,Number,Calabria,2023,54573
+247,Nights spent,Domestic country,Number,Calabria,2021,164352
+248,Nights spent,Domestic country,Number,Calabria,2022,164345
+249,Nights spent,Domestic country,Number,Calabria,2023,173716
+252,Nights spent,Domestic country,Number,Calabria,2021,49972
+253,Nights spent,Domestic country,Number,Calabria,2022,60513
+254,Nights spent,Domestic country,Number,Calabria,2023,70365
+257,Nights spent,Domestic country,Number,Sicilia,2021,637651
+258,Nights spent,Domestic country,Number,Sicilia,2022,714435
+259,Nights spent,Domestic country,Number,Sicilia,2023,746016
+262,Nights spent,Domestic country,Number,Sicilia,2021,455335
+263,Nights spent,Domestic country,Number,Sicilia,2022,586564
+264,Nights spent,Domestic country,Number,Sicilia,2023,698654
+267,Nights spent,Domestic country,Number,Sicilia,2021,319190
+268,Nights spent,Domestic country,Number,Sicilia,2022,352734
+269,Nights spent,Domestic country,Number,Sicilia,2023,353258
+272,Nights spent,Domestic country,Number,Sicilia,2021,171826
+273,Nights spent,Domestic country,Number,Sicilia,2022,197590
+274,Nights spent,Domestic country,Number,Sicilia,2023,202259
+277,Nights spent,Domestic country,Number,Sicilia,2021,4812
+278,Nights spent,Domestic country,Number,Sicilia,2022,7068
+279,Nights spent,Domestic country,Number,Sicilia,2023,9848
+282,Nights spent,Domestic country,Number,Sicilia,2021,4774
+283,Nights spent,Domestic country,Number,Sicilia,2022,5134
+284,Nights spent,Domestic country,Number,Sicilia,2023,7192
+287,Nights spent,Domestic country,Number,Sicilia,2021,273717
+288,Nights spent,Domestic country,Number,Sicilia,2022,370254
+289,Nights spent,Domestic country,Number,Sicilia,2023,421065
+292,Nights spent,Domestic country,Number,Sicilia,2021,186039
+293,Nights spent,Domestic country,Number,Sicilia,2022,206523
+294,Nights spent,Domestic country,Number,Sicilia,2023,219683
+297,Nights spent,Domestic country,Number,Sicilia,2021,443615
+298,Nights spent,Domestic country,Number,Sicilia,2022,511377
+299,Nights spent,Domestic country,Number,Sicilia,2023,527689
+302,Nights spent,Domestic country,Number,Sardegna,2021,940132
+303,Nights spent,Domestic country,Number,Sardegna,2022,1101912
+304,Nights spent,Domestic country,Number,Sardegna,2023,1170072
+307,Nights spent,Domestic country,Number,Sardegna,2021,198278
+308,Nights spent,Domestic country,Number,Sardegna,2022,236265
+309,Nights spent,Domestic country,Number,Sardegna,2023,263326
+312,Nights spent,Domestic country,Number,Sardegna,2021,255277
+313,Nights spent,Domestic country,Number,Sardegna,2022,275677
+314,Nights spent,Domestic country,Number,Sardegna,2023,317279
+317,Nights spent,Domestic country,Number,Sardegna,2021,64039
+318,Nights spent,Domestic country,Number,Sardegna,2022,83021
+319,Nights spent,Domestic country,Number,Sardegna,2023,94673
+322,Nights spent,Domestic country,Number,Sardegna,2021,319304
+323,Nights spent,Domestic country,Number,Sardegna,2022,371847
+324,Nights spent,Domestic country,Number,Sardegna,2023,416858
+327,Nights spent,Domestic country,Number,Trentino-Alto Adige,2021,312981
+328,Nights spent,Domestic country,Number,Trentino-Alto Adige,2022,465085
+329,Nights spent,Domestic country,Number,Trentino-Alto Adige,2023,500753
+332,Nights spent,Domestic country,Number,Trentino-Alto Adige,2021,445323
+333,Nights spent,Domestic country,Number,Trentino-Alto Adige,2022,609661
+334,Nights spent,Domestic country,Number,Trentino-Alto Adige,2023,711074
+337,Nights spent,Domestic country,Number,Veneto,2021,249370
+338,Nights spent,Domestic country,Number,Veneto,2022,389094
+339,Nights spent,Domestic country,Number,Veneto,2023,450959
+342,Nights spent,Domestic country,Number,Veneto,2021,63548
+343,Nights spent,Domestic country,Number,Veneto,2022,80967
+344,Nights spent,Domestic country,Number,Veneto,2023,101515
+347,Nights spent,Domestic country,Number,Veneto,2021,145613
+348,Nights spent,Domestic country,Number,Veneto,2022,165132
+349,Nights spent,Domestic country,Number,Veneto,2023,169746
+352,Nights spent,Domestic country,Number,Veneto,2021,53967
+353,Nights spent,Domestic country,Number,Veneto,2022,67120
+354,Nights spent,Domestic country,Number,Veneto,2023,77673
+357,Nights spent,Domestic country,Number,Veneto,2021,528948
+358,Nights spent,Domestic country,Number,Veneto,2022,573329
+359,Nights spent,Domestic country,Number,Veneto,2023,559540
+362,Nights spent,Domestic country,Number,Veneto,2021,83155
+363,Nights spent,Domestic country,Number,Veneto,2022,131483
+364,Nights spent,Domestic country,Number,Veneto,2023,166485
+367,Nights spent,Domestic country,Number,Veneto,2021,22772
+368,Nights spent,Domestic country,Number,Veneto,2022,25664
+369,Nights spent,Domestic country,Number,Veneto,2023,28595
+372,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2021,18292
+373,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2022,20768
+374,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2023,25604
+377,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2021,135346
+378,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2022,140248
+379,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2023,164097
+382,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2021,22170
+383,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2022,24609
+384,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2023,32003
+387,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2021,66942
+388,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2022,104145
+389,Nights spent,Domestic country,Number,Friuli Venezia Giulia,2023,149191
+392,Nights spent,Domestic country,Number,Emilia-Romagna,2021,17219
+393,Nights spent,Domestic country,Number,Emilia-Romagna,2022,22116
+394,Nights spent,Domestic country,Number,Emilia-Romagna,2023,25324
+397,Nights spent,Domestic country,Number,Emilia-Romagna,2021,57120
+398,Nights spent,Domestic country,Number,Emilia-Romagna,2022,92073
+399,Nights spent,Domestic country,Number,Emilia-Romagna,2023,115750
+402,Nights spent,Domestic country,Number,Emilia-Romagna,2021,21040
+403,Nights spent,Domestic country,Number,Emilia-Romagna,2022,30102
+404,Nights spent,Domestic country,Number,Emilia-Romagna,2023,41538
+407,Nights spent,Domestic country,Number,Emilia-Romagna,2021,52964
+408,Nights spent,Domestic country,Number,Emilia-Romagna,2022,79799
+409,Nights spent,Domestic country,Number,Emilia-Romagna,2023,96009
+412,Nights spent,Domestic country,Number,Emilia-Romagna,2021,236224
+413,Nights spent,Domestic country,Number,Emilia-Romagna,2022,368879
+414,Nights spent,Domestic country,Number,Emilia-Romagna,2023,479919
+417,Nights spent,Domestic country,Number,Emilia-Romagna,2021,59485
+418,Nights spent,Domestic country,Number,Emilia-Romagna,2022,74823
+419,Nights spent,Domestic country,Number,Emilia-Romagna,2023,93779
+422,Nights spent,Domestic country,Number,Emilia-Romagna,2021,70824
+423,Nights spent,Domestic country,Number,Emilia-Romagna,2022,96541
+424,Nights spent,Domestic country,Number,Emilia-Romagna,2023,99393
+427,Nights spent,Domestic country,Number,Emilia-Romagna,2021,35133
+428,Nights spent,Domestic country,Number,Emilia-Romagna,2022,41647
+429,Nights spent,Domestic country,Number,Emilia-Romagna,2023,55462
+432,Nights spent,Domestic country,Number,Emilia-Romagna,2021,177004
+433,Nights spent,Domestic country,Number,Emilia-Romagna,2022,205719
+434,Nights spent,Domestic country,Number,Emilia-Romagna,2023,227121
+437,Nights spent,Domestic country,Number,Toscana,2021,81450
+438,Nights spent,Domestic country,Number,Toscana,2022,91417
+439,Nights spent,Domestic country,Number,Toscana,2023,99953
+442,Nights spent,Domestic country,Number,Toscana,2021,306902
+443,Nights spent,Domestic country,Number,Toscana,2022,335062
+444,Nights spent,Domestic country,Number,Toscana,2023,383236
+447,Nights spent,Domestic country,Number,Toscana,2021,53452
+448,Nights spent,Domestic country,Number,Toscana,2022,77363
+449,Nights spent,Domestic country,Number,Toscana,2023,85168
+452,Nights spent,Domestic country,Number,Toscana,2021,461787
+453,Nights spent,Domestic country,Number,Toscana,2022,616933
+454,Nights spent,Domestic country,Number,Toscana,2023,674372
+457,Nights spent,Domestic country,Number,Toscana,2021,9407
+458,Nights spent,Domestic country,Number,Toscana,2022,11675
+459,Nights spent,Domestic country,Number,Toscana,2023,17211
+462,Nights spent,Domestic country,Number,Toscana,2021,550879
+463,Nights spent,Domestic country,Number,Toscana,2022,579562
+464,Nights spent,Domestic country,Number,Toscana,2023,628577
+467,Nights spent,Domestic country,Number,Toscana,2021,174925
+468,Nights spent,Domestic country,Number,Toscana,2022,196748
+469,Nights spent,Domestic country,Number,Toscana,2023,231983
+472,Nights spent,Domestic country,Number,Toscana,2021,130678
+473,Nights spent,Domestic country,Number,Toscana,2022,154828
+474,Nights spent,Domestic country,Number,Toscana,2023,182989
+477,Nights spent,Domestic country,Number,Toscana,2021,257358
+478,Nights spent,Domestic country,Number,Toscana,2022,288367
+479,Nights spent,Domestic country,Number,Toscana,2023,317386
+482,Nights spent,Domestic country,Number,Toscana,2021,413464
+483,Nights spent,Domestic country,Number,Toscana,2022,398643
+484,Nights spent,Domestic country,Number,Toscana,2023,442285
+487,Nights spent,Domestic country,Number,Umbria,2021,303357
+488,Nights spent,Domestic country,Number,Umbria,2022,379878
+489,Nights spent,Domestic country,Number,Umbria,2023,442226
+492,Nights spent,Domestic country,Number,Umbria,2021,82056
+493,Nights spent,Domestic country,Number,Umbria,2022,88824
+494,Nights spent,Domestic country,Number,Umbria,2023,109830
+497,Nights spent,Domestic country,Number,Marche,2021,108360
+498,Nights spent,Domestic country,Number,Marche,2022,111758
+499,Nights spent,Domestic country,Number,Marche,2023,126228
+502,Nights spent,Domestic country,Number,Marche,2021,206311
+503,Nights spent,Domestic country,Number,Marche,2022,215749
+504,Nights spent,Domestic country,Number,Marche,2023,231390
+507,Nights spent,Domestic country,Number,Marche,2021,75773
+508,Nights spent,Domestic country,Number,Marche,2022,81289
+509,Nights spent,Domestic country,Number,Marche,2023,93303
+512,Nights spent,Domestic country,Number,Marche,2021,79353
+513,Nights spent,Domestic country,Number,Marche,2022,85780
+514,Nights spent,Domestic country,Number,Marche,2023,97073
+517,Nights spent,Domestic country,Number,Marche,2021,60922
+518,Nights spent,Domestic country,Number,Marche,2022,70662
+519,Nights spent,Domestic country,Number,Marche,2023,78183
+522,Nights spent,Domestic country,Number,Lazio,2021,138556
+523,Nights spent,Domestic country,Number,Lazio,2022,170275
+524,Nights spent,Domestic country,Number,Lazio,2023,200757
+527,Nights spent,Domestic country,Number,Lazio,2021,20884
+528,Nights spent,Domestic country,Number,Lazio,2022,24399
+529,Nights spent,Domestic country,Number,Lazio,2023,28433
+532,Nights spent,Domestic country,Number,Lazio,2021,956616
+533,Nights spent,Domestic country,Number,Lazio,2022,1331562
+534,Nights spent,Domestic country,Number,Lazio,2023,1702407
+537,Nights spent,Domestic country,Number,Lazio,2021,236886
+538,Nights spent,Domestic country,Number,Lazio,2022,259827
+539,Nights spent,Domestic country,Number,Lazio,2023,283402
+542,Nights spent,Domestic country,Number,Lazio,2021,18727
+543,Nights spent,Domestic country,Number,Lazio,2022,27837
+544,Nights spent,Domestic country,Number,Lazio,2023,35737
+557,Nights spent,Foreign country,Number,Piemonte,2021,300602
+558,Nights spent,Foreign country,Number,Piemonte,2022,827145
+559,Nights spent,Foreign country,Number,Piemonte,2023,1078009
+562,Nights spent,Foreign country,Number,Piemonte,2021,9017
+563,Nights spent,Foreign country,Number,Piemonte,2022,19333
+564,Nights spent,Foreign country,Number,Piemonte,2023,23757
+567,Nights spent,Foreign country,Number,Piemonte,2021,9738
+568,Nights spent,Foreign country,Number,Piemonte,2022,18512
+569,Nights spent,Foreign country,Number,Piemonte,2023,26471
+572,Nights spent,Foreign country,Number,Piemonte,2021,283954
+573,Nights spent,Foreign country,Number,Piemonte,2022,517689
+574,Nights spent,Foreign country,Number,Piemonte,2023,601317
+577,Nights spent,Foreign country,Number,Piemonte,2021,102355
+578,Nights spent,Foreign country,Number,Piemonte,2022,191979
+579,Nights spent,Foreign country,Number,Piemonte,2023,227313
+582,Nights spent,Foreign country,Number,Piemonte,2021,114305
+583,Nights spent,Foreign country,Number,Piemonte,2022,199256
+584,Nights spent,Foreign country,Number,Piemonte,2023,235432
+587,Nights spent,Foreign country,Number,Piemonte,2021,71069
+588,Nights spent,Foreign country,Number,Piemonte,2022,120843
+589,Nights spent,Foreign country,Number,Piemonte,2023,138415
+592,Nights spent,Foreign country,Number,Piemonte,2021,52117
+593,Nights spent,Foreign country,Number,Piemonte,2022,87624
+594,Nights spent,Foreign country,Number,Piemonte,2023,106472
+597,Nights spent,Foreign country,Number,Valle d'Aosta,2021,125378
+598,Nights spent,Foreign country,Number,Valle d'Aosta,2022,381884
+599,Nights spent,Foreign country,Number,Valle d'Aosta,2023,468913
+602,Nights spent,Foreign country,Number,Liguria,2021,356167
+603,Nights spent,Foreign country,Number,Liguria,2022,640149
+604,Nights spent,Foreign country,Number,Liguria,2023,728260
+607,Nights spent,Foreign country,Number,Liguria,2021,259505
+608,Nights spent,Foreign country,Number,Liguria,2022,479344
+609,Nights spent,Foreign country,Number,Liguria,2023,566374
+612,Nights spent,Foreign country,Number,Liguria,2021,525353
+613,Nights spent,Foreign country,Number,Liguria,2022,1113640
+614,Nights spent,Foreign country,Number,Liguria,2023,1541916
+617,Nights spent,Foreign country,Number,Liguria,2021,633506
+618,Nights spent,Foreign country,Number,Liguria,2022,1394230
+619,Nights spent,Foreign country,Number,Liguria,2023,1726484
+622,Nights spent,Foreign country,Number,Lombardia,2021,165789
+623,Nights spent,Foreign country,Number,Lombardia,2022,315240
+624,Nights spent,Foreign country,Number,Lombardia,2023,407956
+627,Nights spent,Foreign country,Number,Lombardia,2021,801680
+628,Nights spent,Foreign country,Number,Lombardia,2022,1609203
+629,Nights spent,Foreign country,Number,Lombardia,2023,2013215
+632,Nights spent,Foreign country,Number,Lombardia,2021,248886
+633,Nights spent,Foreign country,Number,Lombardia,2022,538037
+634,Nights spent,Foreign country,Number,Lombardia,2023,708635
+637,Nights spent,Foreign country,Number,Lombardia,2021,78163
+638,Nights spent,Foreign country,Number,Lombardia,2022,275437
+639,Nights spent,Foreign country,Number,Lombardia,2023,401880
+642,Nights spent,Foreign country,Number,Lombardia,2021,177093
+643,Nights spent,Foreign country,Number,Lombardia,2022,460001
+644,Nights spent,Foreign country,Number,Lombardia,2023,668867
+647,Nights spent,Foreign country,Number,Lombardia,2021,785730
+648,Nights spent,Foreign country,Number,Lombardia,2022,1278671
+649,Nights spent,Foreign country,Number,Lombardia,2023,1470384
+652,Nights spent,Foreign country,Number,Lombardia,2021,24853
+653,Nights spent,Foreign country,Number,Lombardia,2022,53827
+654,Nights spent,Foreign country,Number,Lombardia,2023,70857
+657,Nights spent,Foreign country,Number,Lombardia,2021,2646
+658,Nights spent,Foreign country,Number,Lombardia,2022,5766
+659,Nights spent,Foreign country,Number,Lombardia,2023,8052
+662,Nights spent,Foreign country,Number,Lombardia,2021,8463
+663,Nights spent,Foreign country,Number,Lombardia,2022,21030
+664,Nights spent,Foreign country,Number,Lombardia,2023,33365
+667,Nights spent,Foreign country,Number,Lombardia,2021,31556
+668,Nights spent,Foreign country,Number,Lombardia,2022,52463
+669,Nights spent,Foreign country,Number,Lombardia,2023,72338
+672,Nights spent,Foreign country,Number,Lombardia,2021,1107496
+673,Nights spent,Foreign country,Number,Lombardia,2022,3292739
+674,Nights spent,Foreign country,Number,Lombardia,2023,5455253
+677,Nights spent,Foreign country,Number,Lombardia,2021,23971
+678,Nights spent,Foreign country,Number,Lombardia,2022,59670
+679,Nights spent,Foreign country,Number,Lombardia,2023,102724
+682,Nights spent,Foreign country,Number,Abruzzo,2021,16697
+683,Nights spent,Foreign country,Number,Abruzzo,2022,40419
+684,Nights spent,Foreign country,Number,Abruzzo,2023,50019
+687,Nights spent,Foreign country,Number,Abruzzo,2021,40915
+688,Nights spent,Foreign country,Number,Abruzzo,2022,83626
+689,Nights spent,Foreign country,Number,Abruzzo,2023,97227
+692,Nights spent,Foreign country,Number,Abruzzo,2021,48699
+693,Nights spent,Foreign country,Number,Abruzzo,2022,108667
+694,Nights spent,Foreign country,Number,Abruzzo,2023,148526
+697,Nights spent,Foreign country,Number,Abruzzo,2021,37072
+698,Nights spent,Foreign country,Number,Abruzzo,2022,83536
+699,Nights spent,Foreign country,Number,Abruzzo,2023,95644
+702,Nights spent,Foreign country,Number,Molise,2021,1610
+703,Nights spent,Foreign country,Number,Molise,2022,4739
+704,Nights spent,Foreign country,Number,Molise,2023,5941
+707,Nights spent,Foreign country,Number,Molise,2021,9892
+708,Nights spent,Foreign country,Number,Molise,2022,21933
+709,Nights spent,Foreign country,Number,Molise,2023,27198
+712,Nights spent,Foreign country,Number,Campania,2021,16306
+713,Nights spent,Foreign country,Number,Campania,2022,33653
+714,Nights spent,Foreign country,Number,Campania,2023,45503
+717,Nights spent,Foreign country,Number,Campania,2021,4357
+718,Nights spent,Foreign country,Number,Campania,2022,11373
+719,Nights spent,Foreign country,Number,Campania,2023,14032
+722,Nights spent,Foreign country,Number,Campania,2021,1002653
+723,Nights spent,Foreign country,Number,Campania,2022,3196365
+724,Nights spent,Foreign country,Number,Campania,2023,4374875
+727,Nights spent,Foreign country,Number,Campania,2021,3510
+728,Nights spent,Foreign country,Number,Campania,2022,11822
+729,Nights spent,Foreign country,Number,Campania,2023,14529
+732,Nights spent,Foreign country,Number,Campania,2021,417292
+733,Nights spent,Foreign country,Number,Campania,2022,1259048
+734,Nights spent,Foreign country,Number,Campania,2023,1567268
+737,Nights spent,Foreign country,Number,Puglia,2021,72781
+738,Nights spent,Foreign country,Number,Puglia,2022,161664
+739,Nights spent,Foreign country,Number,Puglia,2023,207686
+742,Nights spent,Foreign country,Number,Puglia,2021,231657
+743,Nights spent,Foreign country,Number,Puglia,2022,546619
+744,Nights spent,Foreign country,Number,Puglia,2023,712098
+747,Nights spent,Foreign country,Number,Puglia,2021,372138
+748,Nights spent,Foreign country,Number,Puglia,2022,754740
+749,Nights spent,Foreign country,Number,Puglia,2023,917585
+752,Nights spent,Foreign country,Number,Puglia,2021,56307
+753,Nights spent,Foreign country,Number,Puglia,2022,104264
+754,Nights spent,Foreign country,Number,Puglia,2023,116509
+757,Nights spent,Foreign country,Number,Puglia,2021,450377
+758,Nights spent,Foreign country,Number,Puglia,2022,1175264
+759,Nights spent,Foreign country,Number,Puglia,2023,1671552
+762,Nights spent,Foreign country,Number,Puglia,2021,16417
+763,Nights spent,Foreign country,Number,Puglia,2022,38494
+764,Nights spent,Foreign country,Number,Puglia,2023,56725
+767,Nights spent,Foreign country,Number,Basilicata,2021,9447
+768,Nights spent,Foreign country,Number,Basilicata,2022,17445
+769,Nights spent,Foreign country,Number,Basilicata,2023,20782
+772,Nights spent,Foreign country,Number,Basilicata,2021,31665
+773,Nights spent,Foreign country,Number,Basilicata,2022,89506
+774,Nights spent,Foreign country,Number,Basilicata,2023,119663
+777,Nights spent,Foreign country,Number,Calabria,2021,27569
+778,Nights spent,Foreign country,Number,Calabria,2022,55725
+779,Nights spent,Foreign country,Number,Calabria,2023,61664
+782,Nights spent,Foreign country,Number,Calabria,2021,6166
+783,Nights spent,Foreign country,Number,Calabria,2022,13531
+784,Nights spent,Foreign country,Number,Calabria,2023,14411
+787,Nights spent,Foreign country,Number,Calabria,2021,17254
+788,Nights spent,Foreign country,Number,Calabria,2022,36523
+789,Nights spent,Foreign country,Number,Calabria,2023,45593
+792,Nights spent,Foreign country,Number,Calabria,2021,67278
+793,Nights spent,Foreign country,Number,Calabria,2022,144241
+794,Nights spent,Foreign country,Number,Calabria,2023,192090
+797,Nights spent,Foreign country,Number,Calabria,2021,18900
+798,Nights spent,Foreign country,Number,Calabria,2022,41525
+799,Nights spent,Foreign country,Number,Calabria,2023,56693
+802,Nights spent,Foreign country,Number,Sicilia,2021,289751
+803,Nights spent,Foreign country,Number,Sicilia,2022,672928
+804,Nights spent,Foreign country,Number,Sicilia,2023,875846
+807,Nights spent,Foreign country,Number,Sicilia,2021,682303
+808,Nights spent,Foreign country,Number,Sicilia,2022,1675521
+809,Nights spent,Foreign country,Number,Sicilia,2023,2166027
+812,Nights spent,Foreign country,Number,Sicilia,2021,259621
+813,Nights spent,Foreign country,Number,Sicilia,2022,663075
+814,Nights spent,Foreign country,Number,Sicilia,2023,913967
+817,Nights spent,Foreign country,Number,Sicilia,2021,97101
+818,Nights spent,Foreign country,Number,Sicilia,2022,200311
+819,Nights spent,Foreign country,Number,Sicilia,2023,247691
+822,Nights spent,Foreign country,Number,Sicilia,2021,6291
+823,Nights spent,Foreign country,Number,Sicilia,2022,11224
+824,Nights spent,Foreign country,Number,Sicilia,2023,15085
+827,Nights spent,Foreign country,Number,Sicilia,2021,9243
+828,Nights spent,Foreign country,Number,Sicilia,2022,16190
+829,Nights spent,Foreign country,Number,Sicilia,2023,21491
+832,Nights spent,Foreign country,Number,Sicilia,2021,451624
+833,Nights spent,Foreign country,Number,Sicilia,2022,1128686
+834,Nights spent,Foreign country,Number,Sicilia,2023,1486452
+837,Nights spent,Foreign country,Number,Sicilia,2021,108344
+838,Nights spent,Foreign country,Number,Sicilia,2022,244683
+839,Nights spent,Foreign country,Number,Sicilia,2023,314662
+842,Nights spent,Foreign country,Number,Sicilia,2021,322243
+843,Nights spent,Foreign country,Number,Sicilia,2022,773921
+844,Nights spent,Foreign country,Number,Sicilia,2023,945207
+847,Nights spent,Foreign country,Number,Sardegna,2021,872856
+848,Nights spent,Foreign country,Number,Sardegna,2022,1842143
+849,Nights spent,Foreign country,Number,Sardegna,2023,2075019
+852,Nights spent,Foreign country,Number,Sardegna,2021,256222
+853,Nights spent,Foreign country,Number,Sardegna,2022,487254
+854,Nights spent,Foreign country,Number,Sardegna,2023,563964
+857,Nights spent,Foreign country,Number,Sardegna,2021,344690
+858,Nights spent,Foreign country,Number,Sardegna,2022,690569
+859,Nights spent,Foreign country,Number,Sardegna,2023,804917
+862,Nights spent,Foreign country,Number,Sardegna,2021,71721
+863,Nights spent,Foreign country,Number,Sardegna,2022,135974
+864,Nights spent,Foreign country,Number,Sardegna,2023,160652
+867,Nights spent,Foreign country,Number,Sardegna,2021,261746
+868,Nights spent,Foreign country,Number,Sardegna,2022,496033
+869,Nights spent,Foreign country,Number,Sardegna,2023,546305
+872,Nights spent,Foreign country,Number,Trentino-Alto Adige,2021,471365
+873,Nights spent,Foreign country,Number,Trentino-Alto Adige,2022,1152843
+874,Nights spent,Foreign country,Number,Trentino-Alto Adige,2023,1572305
+877,Nights spent,Foreign country,Number,Trentino-Alto Adige,2021,415246
+878,Nights spent,Foreign country,Number,Trentino-Alto Adige,2022,893202
+879,Nights spent,Foreign country,Number,Trentino-Alto Adige,2023,1153758
+882,Nights spent,Foreign country,Number,Veneto,2021,815987
+883,Nights spent,Foreign country,Number,Veneto,2022,1616167
+884,Nights spent,Foreign country,Number,Veneto,2023,1994367
+887,Nights spent,Foreign country,Number,Veneto,2021,51293
+888,Nights spent,Foreign country,Number,Veneto,2022,110576
+889,Nights spent,Foreign country,Number,Veneto,2023,145119
+892,Nights spent,Foreign country,Number,Veneto,2021,100909
+893,Nights spent,Foreign country,Number,Veneto,2022,257374
+894,Nights spent,Foreign country,Number,Veneto,2023,387658
+897,Nights spent,Foreign country,Number,Veneto,2021,78013
+898,Nights spent,Foreign country,Number,Veneto,2022,177109
+899,Nights spent,Foreign country,Number,Veneto,2023,238302
+902,Nights spent,Foreign country,Number,Veneto,2021,1700756
+903,Nights spent,Foreign country,Number,Veneto,2022,4056000
+904,Nights spent,Foreign country,Number,Veneto,2023,4940414
+907,Nights spent,Foreign country,Number,Veneto,2021,103297
+908,Nights spent,Foreign country,Number,Veneto,2022,248755
+909,Nights spent,Foreign country,Number,Veneto,2023,318102
+912,Nights spent,Foreign country,Number,Veneto,2021,29624
+913,Nights spent,Foreign country,Number,Veneto,2022,45779
+914,Nights spent,Foreign country,Number,Veneto,2023,52251
+917,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2021,14150
+918,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2022,26802
+919,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2023,36888
+922,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2021,221049
+923,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2022,350741
+924,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2023,451316
+927,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2021,53467
+928,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2022,90755
+929,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2023,128394
+932,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2021,90815
+933,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2022,217726
+934,Nights spent,Foreign country,Number,Friuli Venezia Giulia,2023,327404
+937,Nights spent,Foreign country,Number,Emilia-Romagna,2021,12618
+938,Nights spent,Foreign country,Number,Emilia-Romagna,2022,23663
+939,Nights spent,Foreign country,Number,Emilia-Romagna,2023,33293
+942,Nights spent,Foreign country,Number,Emilia-Romagna,2021,39809
+943,Nights spent,Foreign country,Number,Emilia-Romagna,2022,100996
+944,Nights spent,Foreign country,Number,Emilia-Romagna,2023,125972
+947,Nights spent,Foreign country,Number,Emilia-Romagna,2021,9400
+948,Nights spent,Foreign country,Number,Emilia-Romagna,2022,22731
+949,Nights spent,Foreign country,Number,Emilia-Romagna,2023,35758
+952,Nights spent,Foreign country,Number,Emilia-Romagna,2021,36442
+953,Nights spent,Foreign country,Number,Emilia-Romagna,2022,80485
+954,Nights spent,Foreign country,Number,Emilia-Romagna,2023,98491
+957,Nights spent,Foreign country,Number,Emilia-Romagna,2021,327196
+958,Nights spent,Foreign country,Number,Emilia-Romagna,2022,897559
+959,Nights spent,Foreign country,Number,Emilia-Romagna,2023,1243788
+962,Nights spent,Foreign country,Number,Emilia-Romagna,2021,33008
+963,Nights spent,Foreign country,Number,Emilia-Romagna,2022,67042
+964,Nights spent,Foreign country,Number,Emilia-Romagna,2023,91847
+967,Nights spent,Foreign country,Number,Emilia-Romagna,2021,45518
+968,Nights spent,Foreign country,Number,Emilia-Romagna,2022,90637
+969,Nights spent,Foreign country,Number,Emilia-Romagna,2023,103998
+972,Nights spent,Foreign country,Number,Emilia-Romagna,2021,20703
+973,Nights spent,Foreign country,Number,Emilia-Romagna,2022,38761
+974,Nights spent,Foreign country,Number,Emilia-Romagna,2023,42263
+977,Nights spent,Foreign country,Number,Emilia-Romagna,2021,92457
+978,Nights spent,Foreign country,Number,Emilia-Romagna,2022,215450
+979,Nights spent,Foreign country,Number,Emilia-Romagna,2023,251807
+982,Nights spent,Foreign country,Number,Toscana,2021,102139
+983,Nights spent,Foreign country,Number,Toscana,2022,188021
+984,Nights spent,Foreign country,Number,Toscana,2023,218280
+987,Nights spent,Foreign country,Number,Toscana,2021,600468
+988,Nights spent,Foreign country,Number,Toscana,2022,1048335
+989,Nights spent,Foreign country,Number,Toscana,2023,1186803
+992,Nights spent,Foreign country,Number,Toscana,2021,100574
+993,Nights spent,Foreign country,Number,Toscana,2022,195028
+994,Nights spent,Foreign country,Number,Toscana,2023,251069
+997,Nights spent,Foreign country,Number,Toscana,2021,1395426
+998,Nights spent,Foreign country,Number,Toscana,2022,3892080
+999,Nights spent,Foreign country,Number,Toscana,2023,5425537
+1002,Nights spent,Foreign country,Number,Toscana,2021,18681
+1003,Nights spent,Foreign country,Number,Toscana,2022,38138
+1004,Nights spent,Foreign country,Number,Toscana,2023,52686
+1007,Nights spent,Foreign country,Number,Toscana,2021,321718
+1008,Nights spent,Foreign country,Number,Toscana,2022,578392
+1009,Nights spent,Foreign country,Number,Toscana,2023,669073
+1012,Nights spent,Foreign country,Number,Toscana,2021,366205
+1013,Nights spent,Foreign country,Number,Toscana,2022,722881
+1014,Nights spent,Foreign country,Number,Toscana,2023,911494
+1017,Nights spent,Foreign country,Number,Toscana,2021,284112
+1018,Nights spent,Foreign country,Number,Toscana,2022,519546
+1019,Nights spent,Foreign country,Number,Toscana,2023,592306
+1022,Nights spent,Foreign country,Number,Toscana,2021,497368
+1023,Nights spent,Foreign country,Number,Toscana,2022,1000712
+1024,Nights spent,Foreign country,Number,Toscana,2023,1206564
+1027,Nights spent,Foreign country,Number,Toscana,2021,231415
+1028,Nights spent,Foreign country,Number,Toscana,2022,377491
+1029,Nights spent,Foreign country,Number,Toscana,2023,407344
+1032,Nights spent,Foreign country,Number,Umbria,2021,227261
+1033,Nights spent,Foreign country,Number,Umbria,2022,476828
+1034,Nights spent,Foreign country,Number,Umbria,2023,521385
+1037,Nights spent,Foreign country,Number,Umbria,2021,68963
+1038,Nights spent,Foreign country,Number,Umbria,2022,133873
+1039,Nights spent,Foreign country,Number,Umbria,2023,155646
+1042,Nights spent,Foreign country,Number,Marche,2021,74285
+1043,Nights spent,Foreign country,Number,Marche,2022,139279
+1044,Nights spent,Foreign country,Number,Marche,2023,150175
+1047,Nights spent,Foreign country,Number,Marche,2021,58042
+1048,Nights spent,Foreign country,Number,Marche,2022,113960
+1049,Nights spent,Foreign country,Number,Marche,2023,131101
+1052,Nights spent,Foreign country,Number,Marche,2021,35090
+1053,Nights spent,Foreign country,Number,Marche,2022,63527
+1054,Nights spent,Foreign country,Number,Marche,2023,68542
+1057,Nights spent,Foreign country,Number,Marche,2021,25280
+1058,Nights spent,Foreign country,Number,Marche,2022,45847
+1059,Nights spent,Foreign country,Number,Marche,2023,51601
+1062,Nights spent,Foreign country,Number,Marche,2021,23637
+1063,Nights spent,Foreign country,Number,Marche,2022,49609
+1064,Nights spent,Foreign country,Number,Marche,2023,50705
+1067,Nights spent,Foreign country,Number,Lazio,2021,71338
+1068,Nights spent,Foreign country,Number,Lazio,2022,154639
+1069,Nights spent,Foreign country,Number,Lazio,2023,170359
+1072,Nights spent,Foreign country,Number,Lazio,2021,14588
+1073,Nights spent,Foreign country,Number,Lazio,2022,33212
+1074,Nights spent,Foreign country,Number,Lazio,2023,36336
+1077,Nights spent,Foreign country,Number,Lazio,2021,2454616
+1078,Nights spent,Foreign country,Number,Lazio,2022,7884091
+1079,Nights spent,Foreign country,Number,Lazio,2023,11807186
+1082,Nights spent,Foreign country,Number,Lazio,2021,70548
+1083,Nights spent,Foreign country,Number,Lazio,2022,148043
+1084,Nights spent,Foreign country,Number,Lazio,2023,177149
+1087,Nights spent,Foreign country,Number,Lazio,2021,10269
+1088,Nights spent,Foreign country,Number,Lazio,2022,22211
+1089,Nights spent,Foreign country,Number,Lazio,2023,27721
+1102,Nights spent,Total,Number,Piemonte,2021,718595
+1103,Nights spent,Total,Number,Piemonte,2022,1506377
+1104,Nights spent,Total,Number,Piemonte,2023,1966619
+1107,Nights spent,Total,Number,Piemonte,2021,23788
+1108,Nights spent,Total,Number,Piemonte,2022,41513
+1109,Nights spent,Total,Number,Piemonte,2023,47364
+1112,Nights spent,Total,Number,Piemonte,2021,21870
+1113,Nights spent,Total,Number,Piemonte,2022,37727
+1114,Nights spent,Total,Number,Piemonte,2023,50814
+1117,Nights spent,Total,Number,Piemonte,2021,354498
+1118,Nights spent,Total,Number,Piemonte,2022,609493
+1119,Nights spent,Total,Number,Piemonte,2023,705734
+1122,Nights spent,Total,Number,Piemonte,2021,140713
+1123,Nights spent,Total,Number,Piemonte,2022,239490
+1124,Nights spent,Total,Number,Piemonte,2023,288103
+1127,Nights spent,Total,Number,Piemonte,2021,221848
+1128,Nights spent,Total,Number,Piemonte,2022,351236
+1129,Nights spent,Total,Number,Piemonte,2023,419331
+1132,Nights spent,Total,Number,Piemonte,2021,102608
+1133,Nights spent,Total,Number,Piemonte,2022,163210
+1134,Nights spent,Total,Number,Piemonte,2023,192767
+1137,Nights spent,Total,Number,Piemonte,2021,82776
+1138,Nights spent,Total,Number,Piemonte,2022,127596
+1139,Nights spent,Total,Number,Piemonte,2023,159963
+1142,Nights spent,Total,Number,Valle d'Aosta,2021,413185
+1143,Nights spent,Total,Number,Valle d'Aosta,2022,831941
+1144,Nights spent,Total,Number,Valle d'Aosta,2023,972311
+1147,Nights spent,Total,Number,Liguria,2021,575365
+1148,Nights spent,Total,Number,Liguria,2022,911362
+1149,Nights spent,Total,Number,Liguria,2023,1052372
+1152,Nights spent,Total,Number,Liguria,2021,554082
+1153,Nights spent,Total,Number,Liguria,2022,856174
+1154,Nights spent,Total,Number,Liguria,2023,1016018
+1157,Nights spent,Total,Number,Liguria,2021,901372
+1158,Nights spent,Total,Number,Liguria,2022,1591201
+1159,Nights spent,Total,Number,Liguria,2023,2123998
+1162,Nights spent,Total,Number,Liguria,2021,938790
+1163,Nights spent,Total,Number,Liguria,2022,1686347
+1164,Nights spent,Total,Number,Liguria,2023,2025989
+1167,Nights spent,Total,Number,Lombardia,2021,216926
+1168,Nights spent,Total,Number,Lombardia,2022,384999
+1169,Nights spent,Total,Number,Lombardia,2023,505092
+1172,Nights spent,Total,Number,Lombardia,2021,900340
+1173,Nights spent,Total,Number,Lombardia,2022,1717179
+1174,Nights spent,Total,Number,Lombardia,2023,2140079
+1177,Nights spent,Total,Number,Lombardia,2021,308989
+1178,Nights spent,Total,Number,Lombardia,2022,605315
+1179,Nights spent,Total,Number,Lombardia,2023,791919
+1182,Nights spent,Total,Number,Lombardia,2021,252011
+1183,Nights spent,Total,Number,Lombardia,2022,518278
+1184,Nights spent,Total,Number,Lombardia,2023,679662
+1187,Nights spent,Total,Number,Lombardia,2021,286554
+1188,Nights spent,Total,Number,Lombardia,2022,611310
+1189,Nights spent,Total,Number,Lombardia,2023,863400
+1192,Nights spent,Total,Number,Lombardia,2021,998420
+1193,Nights spent,Total,Number,Lombardia,2022,1539456
+1194,Nights spent,Total,Number,Lombardia,2023,1774226
+1197,Nights spent,Total,Number,Lombardia,2021,56059
+1198,Nights spent,Total,Number,Lombardia,2022,99179
+1199,Nights spent,Total,Number,Lombardia,2023,129801
+1202,Nights spent,Total,Number,Lombardia,2021,12376
+1203,Nights spent,Total,Number,Lombardia,2022,16451
+1204,Nights spent,Total,Number,Lombardia,2023,21076
+1207,Nights spent,Total,Number,Lombardia,2021,20363
+1208,Nights spent,Total,Number,Lombardia,2022,39448
+1209,Nights spent,Total,Number,Lombardia,2023,60372
+1212,Nights spent,Total,Number,Lombardia,2021,58755
+1213,Nights spent,Total,Number,Lombardia,2022,93467
+1214,Nights spent,Total,Number,Lombardia,2023,122160
+1217,Nights spent,Total,Number,Lombardia,2021,1821548
+1218,Nights spent,Total,Number,Lombardia,2022,4279303
+1219,Nights spent,Total,Number,Lombardia,2023,6840479
+1222,Nights spent,Total,Number,Lombardia,2021,68374
+1223,Nights spent,Total,Number,Lombardia,2022,114180
+1224,Nights spent,Total,Number,Lombardia,2023,182208
+1227,Nights spent,Total,Number,Abruzzo,2021,127847
+1228,Nights spent,Total,Number,Abruzzo,2022,227282
+1229,Nights spent,Total,Number,Abruzzo,2023,267670
+1232,Nights spent,Total,Number,Abruzzo,2021,165465
+1233,Nights spent,Total,Number,Abruzzo,2022,230687
+1234,Nights spent,Total,Number,Abruzzo,2023,259847
+1237,Nights spent,Total,Number,Abruzzo,2021,131912
+1238,Nights spent,Total,Number,Abruzzo,2022,202932
+1239,Nights spent,Total,Number,Abruzzo,2023,275399
+1242,Nights spent,Total,Number,Abruzzo,2021,164779
+1243,Nights spent,Total,Number,Abruzzo,2022,235866
+1244,Nights spent,Total,Number,Abruzzo,2023,288657
+1247,Nights spent,Total,Number,Molise,2021,11654
+1248,Nights spent,Total,Number,Molise,2022,20011
+1249,Nights spent,Total,Number,Molise,2023,24670
+1252,Nights spent,Total,Number,Molise,2021,48478
+1253,Nights spent,Total,Number,Molise,2022,68990
+1254,Nights spent,Total,Number,Molise,2023,92945
+1257,Nights spent,Total,Number,Campania,2021,39335
+1258,Nights spent,Total,Number,Campania,2022,75408
+1259,Nights spent,Total,Number,Campania,2023,108953
+1262,Nights spent,Total,Number,Campania,2021,13708
+1263,Nights spent,Total,Number,Campania,2022,22165
+1264,Nights spent,Total,Number,Campania,2023,29784
+1267,Nights spent,Total,Number,Campania,2021,1633416
+1268,Nights spent,Total,Number,Campania,2022,4268224
+1269,Nights spent,Total,Number,Campania,2023,5889400
+1272,Nights spent,Total,Number,Campania,2021,8404
+1273,Nights spent,Total,Number,Campania,2022,22585
+1274,Nights spent,Total,Number,Campania,2023,28648
+1277,Nights spent,Total,Number,Campania,2021,776703
+1278,Nights spent,Total,Number,Campania,2022,1645881
+1279,Nights spent,Total,Number,Campania,2023,1985016
+1282,Nights spent,Total,Number,Puglia,2021,219426
+1283,Nights spent,Total,Number,Puglia,2022,335114
+1284,Nights spent,Total,Number,Puglia,2023,416508
+1287,Nights spent,Total,Number,Puglia,2021,514706
+1288,Nights spent,Total,Number,Puglia,2022,855175
+1289,Nights spent,Total,Number,Puglia,2023,1052305
+1292,Nights spent,Total,Number,Puglia,2021,1538927
+1293,Nights spent,Total,Number,Puglia,2022,1939706
+1294,Nights spent,Total,Number,Puglia,2023,2206317
+1297,Nights spent,Total,Number,Puglia,2021,208983
+1298,Nights spent,Total,Number,Puglia,2022,268539
+1299,Nights spent,Total,Number,Puglia,2023,299042
+1302,Nights spent,Total,Number,Puglia,2021,784866
+1303,Nights spent,Total,Number,Puglia,2022,1591548
+1304,Nights spent,Total,Number,Puglia,2023,2187258
+1307,Nights spent,Total,Number,Puglia,2021,40818
+1308,Nights spent,Total,Number,Puglia,2022,75965
+1309,Nights spent,Total,Number,Puglia,2023,109534
+1312,Nights spent,Total,Number,Basilicata,2021,36687
+1313,Nights spent,Total,Number,Basilicata,2022,53394
+1314,Nights spent,Total,Number,Basilicata,2023,58867
+1317,Nights spent,Total,Number,Basilicata,2021,129580
+1318,Nights spent,Total,Number,Basilicata,2022,215190
+1319,Nights spent,Total,Number,Basilicata,2023,252061
+1322,Nights spent,Total,Number,Calabria,2021,126677
+1323,Nights spent,Total,Number,Calabria,2022,165442
+1324,Nights spent,Total,Number,Calabria,2023,175714
+1327,Nights spent,Total,Number,Calabria,2021,33073
+1328,Nights spent,Total,Number,Calabria,2022,45030
+1329,Nights spent,Total,Number,Calabria,2023,48506
+1332,Nights spent,Total,Number,Calabria,2021,59639
+1333,Nights spent,Total,Number,Calabria,2022,84709
+1334,Nights spent,Total,Number,Calabria,2023,100166
+1337,Nights spent,Total,Number,Calabria,2021,231630
+1338,Nights spent,Total,Number,Calabria,2022,308586
+1339,Nights spent,Total,Number,Calabria,2023,365806
+1342,Nights spent,Total,Number,Calabria,2021,68872
+1343,Nights spent,Total,Number,Calabria,2022,102038
+1344,Nights spent,Total,Number,Calabria,2023,127058
+1347,Nights spent,Total,Number,Sicilia,2021,927402
+1348,Nights spent,Total,Number,Sicilia,2022,1387363
+1349,Nights spent,Total,Number,Sicilia,2023,1621862
+1352,Nights spent,Total,Number,Sicilia,2021,1137638
+1353,Nights spent,Total,Number,Sicilia,2022,2262085
+1354,Nights spent,Total,Number,Sicilia,2023,2864681
+1357,Nights spent,Total,Number,Sicilia,2021,578811
+1358,Nights spent,Total,Number,Sicilia,2022,1015809
+1359,Nights spent,Total,Number,Sicilia,2023,1267225
+1362,Nights spent,Total,Number,Sicilia,2021,268927
+1363,Nights spent,Total,Number,Sicilia,2022,397901
+1364,Nights spent,Total,Number,Sicilia,2023,449950
+1367,Nights spent,Total,Number,Sicilia,2021,11103
+1368,Nights spent,Total,Number,Sicilia,2022,18292
+1369,Nights spent,Total,Number,Sicilia,2023,24933
+1372,Nights spent,Total,Number,Sicilia,2021,14017
+1373,Nights spent,Total,Number,Sicilia,2022,21324
+1374,Nights spent,Total,Number,Sicilia,2023,28683
+1377,Nights spent,Total,Number,Sicilia,2021,725341
+1378,Nights spent,Total,Number,Sicilia,2022,1498940
+1379,Nights spent,Total,Number,Sicilia,2023,1907517
+1382,Nights spent,Total,Number,Sicilia,2021,294383
+1383,Nights spent,Total,Number,Sicilia,2022,451206
+1384,Nights spent,Total,Number,Sicilia,2023,534345
+1387,Nights spent,Total,Number,Sicilia,2021,765858
+1388,Nights spent,Total,Number,Sicilia,2022,1285298
+1389,Nights spent,Total,Number,Sicilia,2023,1472896
+1392,Nights spent,Total,Number,Sardegna,2021,1812988
+1393,Nights spent,Total,Number,Sardegna,2022,2944055
+1394,Nights spent,Total,Number,Sardegna,2023,3245091
+1397,Nights spent,Total,Number,Sardegna,2021,454500
+1398,Nights spent,Total,Number,Sardegna,2022,723519
+1399,Nights spent,Total,Number,Sardegna,2023,827290
+1402,Nights spent,Total,Number,Sardegna,2021,599967
+1403,Nights spent,Total,Number,Sardegna,2022,966246
+1404,Nights spent,Total,Number,Sardegna,2023,1122196
+1407,Nights spent,Total,Number,Sardegna,2021,135760
+1408,Nights spent,Total,Number,Sardegna,2022,218995
+1409,Nights spent,Total,Number,Sardegna,2023,255325
+1412,Nights spent,Total,Number,Sardegna,2021,581050
+1413,Nights spent,Total,Number,Sardegna,2022,867880
+1414,Nights spent,Total,Number,Sardegna,2023,963163
+1417,Nights spent,Total,Number,Trentino-Alto Adige,2021,784346
+1418,Nights spent,Total,Number,Trentino-Alto Adige,2022,1617928
+1419,Nights spent,Total,Number,Trentino-Alto Adige,2023,2073058
+1422,Nights spent,Total,Number,Trentino-Alto Adige,2021,860569
+1423,Nights spent,Total,Number,Trentino-Alto Adige,2022,1502863
+1424,Nights spent,Total,Number,Trentino-Alto Adige,2023,1864832
+1427,Nights spent,Total,Number,Veneto,2021,1065357
+1428,Nights spent,Total,Number,Veneto,2022,2005261
+1429,Nights spent,Total,Number,Veneto,2023,2445326
+1432,Nights spent,Total,Number,Veneto,2021,114841
+1433,Nights spent,Total,Number,Veneto,2022,191543
+1434,Nights spent,Total,Number,Veneto,2023,246634
+1437,Nights spent,Total,Number,Veneto,2021,246522
+1438,Nights spent,Total,Number,Veneto,2022,422506
+1439,Nights spent,Total,Number,Veneto,2023,557404
+1442,Nights spent,Total,Number,Veneto,2021,131980
+1443,Nights spent,Total,Number,Veneto,2022,244229
+1444,Nights spent,Total,Number,Veneto,2023,315975
+1447,Nights spent,Total,Number,Veneto,2021,2229704
+1448,Nights spent,Total,Number,Veneto,2022,4629329
+1449,Nights spent,Total,Number,Veneto,2023,5499954
+1452,Nights spent,Total,Number,Veneto,2021,186452
+1453,Nights spent,Total,Number,Veneto,2022,380238
+1454,Nights spent,Total,Number,Veneto,2023,484587
+1457,Nights spent,Total,Number,Veneto,2021,52396
+1458,Nights spent,Total,Number,Veneto,2022,71443
+1459,Nights spent,Total,Number,Veneto,2023,80846
+1462,Nights spent,Total,Number,Friuli Venezia Giulia,2021,32442
+1463,Nights spent,Total,Number,Friuli Venezia Giulia,2022,47570
+1464,Nights spent,Total,Number,Friuli Venezia Giulia,2023,62492
+1467,Nights spent,Total,Number,Friuli Venezia Giulia,2021,356395
+1468,Nights spent,Total,Number,Friuli Venezia Giulia,2022,490989
+1469,Nights spent,Total,Number,Friuli Venezia Giulia,2023,615413
+1472,Nights spent,Total,Number,Friuli Venezia Giulia,2021,75637
+1473,Nights spent,Total,Number,Friuli Venezia Giulia,2022,115364
+1474,Nights spent,Total,Number,Friuli Venezia Giulia,2023,160397
+1477,Nights spent,Total,Number,Friuli Venezia Giulia,2021,157757
+1478,Nights spent,Total,Number,Friuli Venezia Giulia,2022,321871
+1479,Nights spent,Total,Number,Friuli Venezia Giulia,2023,476595
+1482,Nights spent,Total,Number,Emilia-Romagna,2021,29837
+1483,Nights spent,Total,Number,Emilia-Romagna,2022,45779
+1484,Nights spent,Total,Number,Emilia-Romagna,2023,58617
+1487,Nights spent,Total,Number,Emilia-Romagna,2021,96929
+1488,Nights spent,Total,Number,Emilia-Romagna,2022,193069
+1489,Nights spent,Total,Number,Emilia-Romagna,2023,241722
+1492,Nights spent,Total,Number,Emilia-Romagna,2021,30440
+1493,Nights spent,Total,Number,Emilia-Romagna,2022,52833
+1494,Nights spent,Total,Number,Emilia-Romagna,2023,77296
+1497,Nights spent,Total,Number,Emilia-Romagna,2021,89406
+1498,Nights spent,Total,Number,Emilia-Romagna,2022,160284
+1499,Nights spent,Total,Number,Emilia-Romagna,2023,194500
+1502,Nights spent,Total,Number,Emilia-Romagna,2021,563420
+1503,Nights spent,Total,Number,Emilia-Romagna,2022,1266438
+1504,Nights spent,Total,Number,Emilia-Romagna,2023,1723707
+1507,Nights spent,Total,Number,Emilia-Romagna,2021,92493
+1508,Nights spent,Total,Number,Emilia-Romagna,2022,141865
+1509,Nights spent,Total,Number,Emilia-Romagna,2023,185626
+1512,Nights spent,Total,Number,Emilia-Romagna,2021,116342
+1513,Nights spent,Total,Number,Emilia-Romagna,2022,187178
+1514,Nights spent,Total,Number,Emilia-Romagna,2023,203391
+1517,Nights spent,Total,Number,Emilia-Romagna,2021,55836
+1518,Nights spent,Total,Number,Emilia-Romagna,2022,80408
+1519,Nights spent,Total,Number,Emilia-Romagna,2023,97725
+1522,Nights spent,Total,Number,Emilia-Romagna,2021,269461
+1523,Nights spent,Total,Number,Emilia-Romagna,2022,421169
+1524,Nights spent,Total,Number,Emilia-Romagna,2023,478928
+1527,Nights spent,Total,Number,Toscana,2021,183589
+1528,Nights spent,Total,Number,Toscana,2022,279438
+1529,Nights spent,Total,Number,Toscana,2023,318233
+1532,Nights spent,Total,Number,Toscana,2021,907370
+1533,Nights spent,Total,Number,Toscana,2022,1383397
+1534,Nights spent,Total,Number,Toscana,2023,1570039
+1537,Nights spent,Total,Number,Toscana,2021,154026
+1538,Nights spent,Total,Number,Toscana,2022,272391
+1539,Nights spent,Total,Number,Toscana,2023,336237
+1542,Nights spent,Total,Number,Toscana,2021,1857213
+1543,Nights spent,Total,Number,Toscana,2022,4509013
+1544,Nights spent,Total,Number,Toscana,2023,6099909
+1547,Nights spent,Total,Number,Toscana,2021,28088
+1548,Nights spent,Total,Number,Toscana,2022,49813
+1549,Nights spent,Total,Number,Toscana,2023,69897
+1552,Nights spent,Total,Number,Toscana,2021,872597
+1553,Nights spent,Total,Number,Toscana,2022,1157954
+1554,Nights spent,Total,Number,Toscana,2023,1297650
+1557,Nights spent,Total,Number,Toscana,2021,541130
+1558,Nights spent,Total,Number,Toscana,2022,919629
+1559,Nights spent,Total,Number,Toscana,2023,1143477
+1562,Nights spent,Total,Number,Toscana,2021,414790
+1563,Nights spent,Total,Number,Toscana,2022,674374
+1564,Nights spent,Total,Number,Toscana,2023,775295
+1567,Nights spent,Total,Number,Toscana,2021,754726
+1568,Nights spent,Total,Number,Toscana,2022,1289079
+1569,Nights spent,Total,Number,Toscana,2023,1523950
+1572,Nights spent,Total,Number,Toscana,2021,644879
+1573,Nights spent,Total,Number,Toscana,2022,776134
+1574,Nights spent,Total,Number,Toscana,2023,849629
+1577,Nights spent,Total,Number,Umbria,2021,530618
+1578,Nights spent,Total,Number,Umbria,2022,856706
+1579,Nights spent,Total,Number,Umbria,2023,963611
+1582,Nights spent,Total,Number,Umbria,2021,151019
+1583,Nights spent,Total,Number,Umbria,2022,222697
+1584,Nights spent,Total,Number,Umbria,2023,265476
+1587,Nights spent,Total,Number,Marche,2021,182645
+1588,Nights spent,Total,Number,Marche,2022,251037
+1589,Nights spent,Total,Number,Marche,2023,276403
+1592,Nights spent,Total,Number,Marche,2021,264353
+1593,Nights spent,Total,Number,Marche,2022,329709
+1594,Nights spent,Total,Number,Marche,2023,362491
+1597,Nights spent,Total,Number,Marche,2021,110863
+1598,Nights spent,Total,Number,Marche,2022,144816
+1599,Nights spent,Total,Number,Marche,2023,161845
+1602,Nights spent,Total,Number,Marche,2021,104633
+1603,Nights spent,Total,Number,Marche,2022,131627
+1604,Nights spent,Total,Number,Marche,2023,148674
+1607,Nights spent,Total,Number,Marche,2021,84559
+1608,Nights spent,Total,Number,Marche,2022,120271
+1609,Nights spent,Total,Number,Marche,2023,128888
+1612,Nights spent,Total,Number,Lazio,2021,209894
+1613,Nights spent,Total,Number,Lazio,2022,324914
+1614,Nights spent,Total,Number,Lazio,2023,371116
+1617,Nights spent,Total,Number,Lazio,2021,35472
+1618,Nights spent,Total,Number,Lazio,2022,57611
+1619,Nights spent,Total,Number,Lazio,2023,64769
+1622,Nights spent,Total,Number,Lazio,2021,3411232
+1623,Nights spent,Total,Number,Lazio,2022,9215653
+1624,Nights spent,Total,Number,Lazio,2023,13509593
+1627,Nights spent,Total,Number,Lazio,2021,307434
+1628,Nights spent,Total,Number,Lazio,2022,407870
+1629,Nights spent,Total,Number,Lazio,2023,460551
+1632,Nights spent,Total,Number,Lazio,2021,28996
+1633,Nights spent,Total,Number,Lazio,2022,50048
+1634,Nights spent,Total,Number,Lazio,2023,63458

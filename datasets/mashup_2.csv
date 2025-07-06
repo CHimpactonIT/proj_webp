@@ -1,0 +1,199 @@
+,Territory,TIME_PERIOD,Observation,DS,institution_count
+0,Abruzzo,2021,12258.0,d2,250.0
+1,Abruzzo,2021,33656.1,d1,250.0
+2,Abruzzo,2021,117574.0,d3,250.0
+3,Abruzzo,2022,12560.0,d2,250.0
+4,Abruzzo,2022,36459.6,d1,250.0
+5,Abruzzo,2022,122730.0,d3,250.0
+6,Abruzzo,2023,9802.0,d2,250.0
+7,Abruzzo,2023,39419.2,d1,250.0
+8,Abruzzo,2023,138166.0,d3,250.0
+9,Basilicata,2021,4661.0,d2,88.0
+10,Basilicata,2021,12954.0,d1,88.0
+11,Basilicata,2021,133011.0,d3,88.0
+12,Basilicata,2022,4703.0,d2,88.0
+13,Basilicata,2022,13966.3,d1,88.0
+14,Basilicata,2022,134225.0,d3,88.0
+15,Basilicata,2023,3674.0,d2,88.0
+16,Basilicata,2023,14744.0,d1,88.0
+17,Basilicata,2023,138578.0,d3,88.0
+18,Calabria,2021,13419.0,d2,272.0
+19,Calabria,2021,34063.4,d1,272.0
+20,Calabria,2021,113964.0,d3,272.0
+21,Calabria,2022,13695.0,d2,272.0
+22,Calabria,2022,36302.7,d1,272.0
+23,Calabria,2022,127738.0,d3,272.0
+24,Calabria,2023,11254.0,d2,272.0
+25,Calabria,2023,38786.0,d1,272.0
+26,Calabria,2023,135485.0,d3,272.0
+27,Campania,2021,43862.0,d2,367.0
+28,Campania,2021,111938.6,d1,367.0
+29,Campania,2021,126610.0,d3,367.0
+30,Campania,2022,45152.0,d2,367.0
+31,Campania,2022,121993.5,d1,367.0
+32,Campania,2022,138206.0,d3,367.0
+33,Campania,2023,35744.0,d2,367.0
+34,Campania,2023,130037.0,d1,367.0
+35,Campania,2023,141313.0,d3,367.0
+36,Emilia-Romagna,2021,50420.99999999999,d2,659.0
+37,Emilia-Romagna,2021,169152.7,d1,659.0
+38,Emilia-Romagna,2021,192178.0,d3,659.0
+39,Emilia-Romagna,2022,51359.00000000001,d2,659.0
+40,Emilia-Romagna,2022,180533.3,d1,659.0
+41,Emilia-Romagna,2022,209337.0,d3,659.0
+42,Emilia-Romagna,2023,38446.0,d2,659.0
+43,Emilia-Romagna,2023,192662.6,d1,659.0
+44,Emilia-Romagna,2023,207267.0,d3,659.0
+45,Friuli-Venezia Giulia,2021,12746.999999999998,d2,210.0
+46,Friuli-Venezia Giulia,2021,40472.5,d1,210.0
+47,Friuli-Venezia Giulia,2021,155269.0,d3,210.0
+48,Friuli-Venezia Giulia,2022,12891.0,d2,210.0
+49,Friuli-Venezia Giulia,2022,42690.3,d1,210.0
+50,Friuli-Venezia Giulia,2022,168888.0,d3,210.0
+51,Friuli-Venezia Giulia,2023,9552.0,d2,210.0
+52,Friuli-Venezia Giulia,2023,44996.2,d1,210.0
+53,Friuli-Venezia Giulia,2023,178286.0,d3,210.0
+54,Isole,2021,0.0,d2,0.0
+55,Isole,2021,124061.0,d3,0.0
+56,Isole,2021,127850.3,d1,0.0
+57,Isole,2022,0.0,d2,0.0
+58,Isole,2022,127126.0,d3,0.0
+59,Isole,2022,141198.3,d1,0.0
+60,Isole,2023,0.0,d2,0.0
+61,Isole,2023,139783.0,d3,0.0
+62,Isole,2023,151437.7,d1,0.0
+63,Lazio,2021,64932.0,d2,560.0
+64,Lazio,2021,153681.0,d3,560.0
+65,Lazio,2021,204572.4,d1,560.0
+66,Lazio,2022,65739.0,d2,560.0
+67,Lazio,2022,159568.0,d3,560.0
+68,Lazio,2022,227646.8,d1,560.0
+69,Lazio,2023,52611.0,d2,560.0
+70,Lazio,2023,169369.0,d3,560.0
+71,Lazio,2023,238936.9,d1,560.0
+72,Liguria,2021,15852.0,d2,281.0
+73,Liguria,2021,49382.5,d1,281.0
+74,Liguria,2021,162007.0,d3,281.0
+75,Liguria,2022,16238.999999999998,d2,281.0
+76,Liguria,2022,53049.1,d1,281.0
+77,Liguria,2022,171964.0,d3,281.0
+78,Liguria,2023,12831.999999999998,d2,281.0
+79,Liguria,2023,56952.2,d1,281.0
+80,Liguria,2023,183815.0,d3,281.0
+81,Lombardia,2021,115544.0,d2,568.0
+82,Lombardia,2021,202582.0,d3,568.0
+83,Lombardia,2021,424241.9,d1,568.0
+84,Lombardia,2022,117860.0,d2,568.0
+85,Lombardia,2022,202996.0,d3,568.0
+86,Lombardia,2022,457669.6,d1,568.0
+87,Lombardia,2023,89606.0,d2,568.0
+88,Lombardia,2023,207549.0,d3,568.0
+89,Lombardia,2023,490349.8,d1,568.0
+90,Marche,2021,0.0,d1,369.0
+91,Marche,2021,15562.0,d2,369.0
+92,Marche,2021,147993.0,d3,369.0
+93,Marche,2022,0.0,d1,369.0
+94,Marche,2022,15827.0,d2,369.0
+95,Marche,2022,161765.0,d3,369.0
+96,Marche,2023,0.0,d1,369.0
+97,Marche,2023,11725.0,d2,369.0
+98,Marche,2023,193920.0,d3,369.0
+99,Molise,2021,2469.0,d2,63.0
+100,Molise,2021,6847.6,d1,63.0
+101,Molise,2021,116270.0,d3,63.0
+102,Molise,2022,2537.0,d2,63.0
+103,Molise,2022,7275.8,d1,63.0
+104,Molise,2022,122514.0,d3,63.0
+105,Molise,2023,2017.0,d2,63.0
+106,Molise,2023,7746.5,d1,63.0
+107,Molise,2023,128858.0,d3,63.0
+108,Piemonte,2021,44257.0,d2,619.0
+109,Piemonte,2021,137596.8,d1,619.0
+110,Piemonte,2021,168262.0,d3,619.0
+111,Piemonte,2022,44878.0,d2,619.0
+112,Piemonte,2022,146698.1,d1,619.0
+113,Piemonte,2022,171933.0,d3,619.0
+114,Piemonte,2023,33330.0,d2,619.0
+115,Piemonte,2023,156061.4,d1,619.0
+116,Piemonte,2023,183948.0,d3,619.0
+117,Provincia Autonoma Bolzano / Bozen,2021,6985.0,d2,90.0
+118,Provincia Autonoma Bolzano / Bozen,2021,26649.1,d1,90.0
+119,Provincia Autonoma Bolzano / Bozen,2021,194026.0,d3,90.0
+120,Provincia Autonoma Bolzano / Bozen,2022,7314.000000000001,d2,90.0
+121,Provincia Autonoma Bolzano / Bozen,2022,29882.3,d1,90.0
+122,Provincia Autonoma Bolzano / Bozen,2022,198596.0,d3,90.0
+123,Provincia Autonoma Bolzano / Bozen,2023,5620.0,d2,90.0
+124,Provincia Autonoma Bolzano / Bozen,2023,32044.4,d1,90.0
+125,Provincia Autonoma Bolzano / Bozen,2023,188170.0,d3,90.0
+126,Provincia Autonoma Trento,2021,6289.0,d2,94.0
+127,Provincia Autonoma Trento,2021,21394.5,d1,94.0
+128,Provincia Autonoma Trento,2021,163035.0,d3,94.0
+129,Provincia Autonoma Trento,2022,6536.0,d2,94.0
+130,Provincia Autonoma Trento,2022,23794.5,d1,94.0
+131,Provincia Autonoma Trento,2022,186180.0,d3,94.0
+132,Provincia Autonoma Trento,2023,4947.0,d2,94.0
+133,Provincia Autonoma Trento,2023,25227.9,d1,94.0
+134,Provincia Autonoma Trento,2023,172970.0,d3,94.0
+135,Puglia,2021,31920.0,d2,270.0
+136,Puglia,2021,79454.4,d1,270.0
+137,Puglia,2021,129192.0,d3,270.0
+138,Puglia,2022,32690.0,d2,270.0
+139,Puglia,2022,86097.2,d1,270.0
+140,Puglia,2022,144959.0,d3,270.0
+141,Puglia,2023,25949.0,d2,270.0
+142,Puglia,2023,91634.7,d1,270.0
+143,Puglia,2023,144237.0,d3,270.0
+144,Sardegna,2021,14295.0,d2,271.0
+145,Sardegna,2021,35686.5,d1,271.0
+146,Sardegna,2021,118601.0,d3,271.0
+147,Sardegna,2022,14559.0,d2,271.0
+148,Sardegna,2022,38830.1,d1,271.0
+149,Sardegna,2022,125278.0,d3,271.0
+150,Sardegna,2023,11720.0,d2,271.0
+151,Sardegna,2023,41428.9,d1,271.0
+152,Sardegna,2023,149333.0,d3,271.0
+153,Sicilia,2021,34894.0,d2,322.0
+154,Sicilia,2021,92163.8,d1,322.0
+155,Sicilia,2021,122881.0,d3,322.0
+156,Sicilia,2022,35897.0,d2,322.0
+157,Sicilia,2022,102368.2,d1,322.0
+158,Sicilia,2022,125570.0,d3,322.0
+159,Sicilia,2023,29790.0,d2,322.0
+160,Sicilia,2023,110008.8,d1,322.0
+161,Sicilia,2023,134619.0,d3,322.0
+162,Toscana,2021,39099.0,d2,752.0
+163,Toscana,2021,119552.3,d1,752.0
+164,Toscana,2021,174484.0,d3,752.0
+165,Toscana,2022,40007.0,d2,752.0
+166,Toscana,2022,130428.9,d1,752.0
+167,Toscana,2022,186303.0,d3,752.0
+168,Toscana,2023,30304.0,d2,752.0
+169,Toscana,2023,137966.2,d1,752.0
+170,Toscana,2023,188631.0,d3,752.0
+171,Umbria,2021,8506.0,d2,271.0
+172,Umbria,2021,23051.0,d1,271.0
+173,Umbria,2021,162251.0,d3,271.0
+174,Umbria,2022,8640.0,d2,271.0
+175,Umbria,2022,24695.7,d1,271.0
+176,Umbria,2022,185160.0,d3,271.0
+177,Umbria,2023,6764.000000000001,d2,271.0
+178,Umbria,2023,26094.8,d1,271.0
+179,Umbria,2023,190271.0,d3,271.0
+180,"Valle d""'Aosta / Vallée d""'Aoste'",2021,1420.0,d2,68.0
+181,"Valle d""'Aosta / Vallée d""'Aoste'",2021,4783.0,d1,68.0
+182,"Valle d""'Aosta / Vallée d""'Aoste'",2021,101955.0,d3,68.0
+183,"Valle d""'Aosta / Vallée d""'Aoste'",2022,1482.0,d2,68.0
+184,"Valle d""'Aosta / Vallée d""'Aoste'",2022,5409.3,d1,68.0
+185,"Valle d""'Aosta / Vallée d""'Aoste'",2022,176852.0,d3,68.0
+186,"Valle d""'Aosta / Vallée d""'Aoste'",2023,1186.0,d2,68.0
+187,"Valle d""'Aosta / Vallée d""'Aoste'",2023,5699.0,d1,68.0
+188,"Valle d""'Aosta / Vallée d""'Aoste'",2023,199094.0,d3,68.0
+189,Veneto,2021,53283.0,d2,255.0
+190,Veneto,2021,170111.8,d1,255.0
+191,Veneto,2021,190883.0,d3,255.0
+192,Veneto,2022,54490.0,d2,255.0
+193,Veneto,2022,184143.4,d1,255.0
+194,Veneto,2022,201467.0,d3,255.0
+195,Veneto,2023,41494.0,d2,255.0
+196,Veneto,2023,197135.8,d1,255.0
+197,Veneto,2023,201362.0,d3,255.0

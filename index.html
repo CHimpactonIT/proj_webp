@@ -29,6 +29,8 @@ License: https://freebootstrap.net/license
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- End Theme Style-->
     
+    <script src="assets/js/main.js"></script>
+
     <!-- ======= Apply theme =======-->
     <script>
       // Apply the theme as early as possible to avoid flicker
@@ -332,6 +334,18 @@ License: https://freebootstrap.net/license
                       <div class="icon text-center mb-4"><i class="bi bi-wallet2"></i></div>
                       <h3 class="fs-6 fw-bold mb-3">D10: Household Income</h3>
                       <p>Household net income by source, analyzing regional disparities and income structure (ISTAT).</p>
+                    </div>
+
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-delay="900">
+                      <div class="icon text-center mb-4"><i class="bi bi-wallet2"></i></div>
+                      <h3 class="fs-6 fw-bold mb-3">M1: Mashup1</h3>
+                      <p>Mashup dataset of all the tourism data, along with the cultural heritage institutions data.</p>
+                    </div>
+
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-delay="900">
+                      <div class="icon text-center mb-4"><i class="bi bi-wallet2"></i></div>
+                      <h3 class="fs-6 fw-bold mb-3">M2: Mashup2</h3>
+                      <p>Mashup dataset of all the economic data, along with the cultural heritage institutions data.</p>
                     </div>
                     
                   </div>
@@ -1205,56 +1219,139 @@ License: https://freebootstrap.net/license
   </div>
 </section>
 
-
-
-        
         <!-- ======= How it works =======-->
         <section class="section howitworks__v1" id="how-it-works">
           <div class="container">
             <div class="row mb-5">
-              <div class="col-md-6 text-center mx-auto"><span class="subtitle text-uppercase mb-3" data-aos="fade-up" data-aos-delay="0">How it works</span>
-                <h2 data-aos="fade-up" data-aos-delay="100">How It Works</h2>
-                <p data-aos="fade-up" data-aos-delay="200">Our platform is designed to make managing your finances simple and efficient. Follow these easy steps to get started: </p>
+              <div class="col-md-6 text-center mx-auto"><span class="subtitle text-uppercase mb-3" data-aos="fade-up" data-aos-delay="0">Visualizations</span>
+                <h2 data-aos="fade-up" data-aos-delay="100">Visualizations</h2>
+                <p data-aos="fade-up" data-aos-delay="200">Explore our visualizations to understand our datasets and how they relate to each other in a visually engaging way.</p>
               </div>
             </div>
-            <div class="row g-md-5">
-              <div class="col-md-6 col-lg-3">
-                <div class="step-card text-center h-100 d-flex flex-column justify-content-start position-relative" data-aos="fade-up" data-aos-delay="0">
-                  <div data-aos="fade-right" data-aos-delay="500"><img class="arch-line" src="assets/images/arch-line.svg" alt="FreeBootstrap.net image placeholder"></div><span class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">1</span>
-                  <div>
-                    <h3 class="fs-5 mb-4">Sign Up</h3>
-                    <p>Visit our website or download our app to sign up. Provide basic information to set up your secure account.</p>
+            <div class="row">
+              <div class="table-responsive">
+                    <table class="table table-bordered text-center align-middle">
+                      <thead class="table-light">
+                        <tr>
+                          <th>Considerations</th>
+                          <th>Mashup Used</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      <tr>
+                        <td>What is the relationship between available tourist accomodations and occupancy rates? What can this imply about the presence of cultural heritage institutions?</td>
+                        <td>Mashup 1</td>
+                      </tr>
+                      <tr>
+                        <td>What is the relationship between tourist arrival numbers and the number of cultural heritage institutions present?</td>
+                        <td>Mashup 1</td>
+                      </tr>
+                      <tr>
+                        <td>What is the relationship between the number of nights spent per region? Is there any correlation between this and the number of cultural heritage institutions?</td>
+                        <td>Mashup 1</td>
+                      </tr>
+                      <tr>
+                        <td>What is the trend of total accomodation establishments versus cultural heritage institutions between 2021 and 2023?</td>
+                        <td>Mashup 1</td>
+                      </tr>
+                      <tr>
+                        <td>What is the overall correlation between all touristic data and the number of cultural heritage institutions?</td>
+                        <td>Mashup 1</td>
+                      </tr>
+                      <tr>
+                        <td>What is the overall average trend of the economic data between 2021 and 2023?</td>
+                        <td>Mashup 2</td>
+                      </tr>
+                      <tr>
+                        <td>What is the relationship between cultural heritage institutions and the economic information?</td>
+                        <td>Mashup 2</td>
+                      </tr>
+                      <tr>
+                        <td>What are the regional averages of economic data and are there any visible correlations with the number of cultural heritage institutions?</td>
+                        <td>Mashup 2</td>
+                      </tr>  
+                      <tr>
+                        <td>What is the overall correlation between all economic data and the number of cultural heritage institutions?</td>
+                        <td>Mashup 2</td>
+                      </tr>
+                      </tbody>  
+                    </table>
+              </div>
+            </div>
+
+
+            <div class="row justify-content-center mb-4" data-aos="fade-up" data-aos-delay="100">
+              <div class="col-auto">
+                <button class="btn btn-mashup" onclick="showMashupViz('mashup1-container', this)">Mashup 1</button>
+              </div>
+              <div class="col-auto">
+                <button class="btn btn-mashup" onclick="showMashupViz('mashup2-container', this)">Mashup 2</button>
+              </div>
+            </div>
+
+            <div id="mashup1-container" class="mashup-viz-container" style="display:block" >
+              <div class="mb-2" style="text-align:center;" data-aos="fade-up" data-aos-delay="300">
+                <button class="btn btn-mashup1-tab" onclick="showMashup1Tab('tab1', this)">Occupancy Rate</button>
+                <button class="btn btn-mashup1-tab" onclick="showMashup1Tab('tab2', this)">Arrivals</button>
+                <button class="btn btn-mashup1-tab" onclick="showMashup1Tab('tab3', this)">Nights Spent</button>
+                <button class="btn btn-mashup1-tab" onclick="showMashup1Tab('tab4', this)">Total Accomodations vs Institution Count</button>
+                <button class="btn btn-mashup1-tab" onclick="showMashup1Tab('tab5', this)">Correlation Matrix</button>
+              </div>
+
+            <div class="row justify-content-center">
+              <div class="col-md-12" data-aos="fade-up" data-aos-delay="600">
+                <div>
+                  <img id="mashup1-fig1" src="viz/fig1.png" style="display:block; width:100%; margin:30px;">
+                </div>
+              </div>
+            </div>
+
+            <iframe id="mashup1-fig2" src="viz/fig2.html" width="100%" height="550" frameborder="0" style="display:none"></iframe>
+            <iframe id="mashup1-fig3" src="viz/fig3.html" width="100%" height="550" frameborder="0" style="display:none"></iframe>
+            <img id="mashup1-fig4" src="viz/fig4.png" style="display:none; width:100%; margin:30px;">
+            <img id="mashup1-fig5" src="viz/fig5.png" style="display:none; width:100%; margin:30px;">
+
+            </div>
+
+            <div id="mashup2-container" class="mashup-viz-container" style="display:none" >
+              <div class="mb-2" style="text-align:center;" data-aos="fade-up" data-aos-delay="300">
+                <button class="btn btn-mashup2-tab" onclick="showMashup2Tab('tab6', this)">Overview</button>
+                <button class="btn btn-mashup2-tab" onclick="showMashup2Tab('tab7', this)">Economic Data vs Institution Count</button>
+                <button class="btn btn-mashup2-tab" onclick="showMashup2Tab('tab8', this)">Regional Averages</button>
+                <button class="btn btn-mashup2-tab" onclick="showMashup2Tab('tab9', this)">Correlation Matrix</button>
+              </div>
+
+              <iframe id="mashup2-fig1" src="viz/fig6.html" width="100%" height="550" frameborder="0" style="display:none"></iframe>
+              
+              <iframe id="mashup2-fig2" src="viz/fig7.html" width="100%" height="550" frameborder="0" style="display:none"></iframe>
+
+              <div id="mashup2-fig3">
+                <div class="row justify-content-center">
+                  <div class="col-md-6">
+                    <iframe src="viz/fig8.html" width="100%" height="550" frameborder="0" style="display:block"></iframe>
+                  </div>
+                  <div class="col-md-6">
+                    <iframe src="viz/fig9.html" width="100%" height="550" frameborder="0" style="display:block"></iframe>
+                  </div>
+                </div>
+
+                <div class="row justify-content-center">
+                  <div class="col-md-6">
+                    <iframe src="viz/fig10.html" width="100%" height="550" frameborder="0" style="display:block"></iframe>
+                  </div>
+                  <div class="col-md-6">
+                    <iframe src="viz/fig11.html" width="100%" height="550" frameborder="0" style="display:block"></iframe>
                   </div>
                 </div>
               </div>
-              <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
-                <div class="step-card reverse text-center h-100 d-flex flex-column justify-content-start position-relative">
-                  <div data-aos="fade-right" data-aos-delay="1100"><img class="arch-line reverse" src="assets/images/arch-line-reverse.svg" alt="FreeBootstrap.net image placeholder"></div><span class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">2</span>
-                  <h3 class="fs-5 mb-4">Set Up Your Profile</h3>
-                  <p>Add your personal or business details to tailor the platform to your specific needs.</p>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="1200">
-                <div class="step-card text-center h-100 d-flex flex-column justify-content-start position-relative">
-                  <div data-aos="fade-right" data-aos-delay="1700"><img class="arch-line" src="assets/images/arch-line.svg" alt="FreeBootstrap.net image placeholder"></div><span class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">3</span>
-                  <h3 class="fs-5 mb-4">Explore Features</h3>
-                  <p>Access your dashboard for a summary of your finances: balances, recent transactions, and insights.</p>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="1800">
-                <div class="step-card last text-center h-100 d-flex flex-column justify-content-start position-relative"><span class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">4</span>
-                  <div>
-                    <h3 class="fs-5 mb-4">Invest and Grow</h3>
-                    <p>Discover a variety of investment opportunities tailored to your financial goals.</p>
-                  </div>
-                </div>
+              <img id="mashup2-fig4" src="viz/fig12.png" style="display:none; width:100%; margin:30px;">
               </div>
             </div>
-          </div>
         </section>
         <!-- End How it works-->
         
         <!-- ======= Stats =======-->
+         <!--
         <section class="stats__v3 section">
           <div class="container">
             <div class="row">
@@ -1288,6 +1385,7 @@ License: https://freebootstrap.net/license
             </div>
           </div>
         </section>
+        -->
         <!-- End Stats-->
         
         <!-- ======= Services =======-->

@@ -1,0 +1,1387 @@
+,Accommodation_Capacity,Unit of measurement,Economic activity,Region,Year,Value
+31,Bedplaces,Number,Hotels and similar accommodation,Piemonte,2021,79892.0
+32,Bedplaces,Number,Hotels and similar accommodation,Piemonte,2022,80182.0
+33,Bedplaces,Number,Hotels and similar accommodation,Piemonte,2023,80179.0
+36,Bedplaces,Number,Hotels and similar accommodation,Valle d'Aosta,2021,24920.0
+37,Bedplaces,Number,Hotels and similar accommodation,Valle d'Aosta,2022,25035.0
+38,Bedplaces,Number,Hotels and similar accommodation,Valle d'Aosta,2023,24608.0
+41,Bedplaces,Number,Hotels and similar accommodation,Liguria,2021,59691.0
+42,Bedplaces,Number,Hotels and similar accommodation,Liguria,2022,58741.0
+43,Bedplaces,Number,Hotels and similar accommodation,Liguria,2023,58123.0
+46,Bedplaces,Number,Hotels and similar accommodation,Lombardia,2021,197789.0
+47,Bedplaces,Number,Hotels and similar accommodation,Lombardia,2022,200067.0
+48,Bedplaces,Number,Hotels and similar accommodation,Lombardia,2023,197352.0
+56,Bedplaces,Number,Hotels and similar accommodation,Abruzzo,2021,50311.0
+57,Bedplaces,Number,Hotels and similar accommodation,Abruzzo,2022,50438.0
+58,Bedplaces,Number,Hotels and similar accommodation,Abruzzo,2023,50476.0
+61,Bedplaces,Number,Hotels and similar accommodation,Molise,2021,4975.0
+62,Bedplaces,Number,Hotels and similar accommodation,Molise,2022,4849.0
+63,Bedplaces,Number,Hotels and similar accommodation,Molise,2023,4849.0
+66,Bedplaces,Number,Hotels and similar accommodation,Campania,2021,126086.0
+67,Bedplaces,Number,Hotels and similar accommodation,Campania,2022,126633.0
+68,Bedplaces,Number,Hotels and similar accommodation,Campania,2023,126857.0
+71,Bedplaces,Number,Hotels and similar accommodation,Puglia,2021,109118.0
+72,Bedplaces,Number,Hotels and similar accommodation,Puglia,2022,109649.0
+73,Bedplaces,Number,Hotels and similar accommodation,Puglia,2023,110540.0
+76,Bedplaces,Number,Hotels and similar accommodation,Basilicata,2021,18837.0
+77,Bedplaces,Number,Hotels and similar accommodation,Basilicata,2022,19733.0
+78,Bedplaces,Number,Hotels and similar accommodation,Basilicata,2023,19910.0
+81,Bedplaces,Number,Hotels and similar accommodation,Calabria,2021,97019.0
+82,Bedplaces,Number,Hotels and similar accommodation,Calabria,2022,97495.0
+83,Bedplaces,Number,Hotels and similar accommodation,Calabria,2023,93901.0
+91,Bedplaces,Number,Hotels and similar accommodation,Sicilia,2021,124042.0
+92,Bedplaces,Number,Hotels and similar accommodation,Sicilia,2022,123618.0
+93,Bedplaces,Number,Hotels and similar accommodation,Sicilia,2023,124542.0
+96,Bedplaces,Number,Hotels and similar accommodation,Sardegna,2021,110787.0
+97,Bedplaces,Number,Hotels and similar accommodation,Sardegna,2022,111274.0
+98,Bedplaces,Number,Hotels and similar accommodation,Sardegna,2023,112550.0
+106,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,151905.0
+107,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,153549.0
+108,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,158428.0
+111,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,90554.0
+112,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,90459.0
+113,Bedplaces,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,90569.0
+116,Bedplaces,Number,Hotels and similar accommodation,Veneto,2021,208630.0
+117,Bedplaces,Number,Hotels and similar accommodation,Veneto,2022,214710.0
+118,Bedplaces,Number,Hotels and similar accommodation,Veneto,2023,212246.0
+121,Bedplaces,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2021,43185.0
+122,Bedplaces,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2022,42919.0
+123,Bedplaces,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2023,43651.0
+126,Bedplaces,Number,Hotels and similar accommodation,Emilia-Romagna,2021,282879.0
+127,Bedplaces,Number,Hotels and similar accommodation,Emilia-Romagna,2022,282909.0
+128,Bedplaces,Number,Hotels and similar accommodation,Emilia-Romagna,2023,281923.0
+136,Bedplaces,Number,Hotels and similar accommodation,Toscana,2021,185742.0
+137,Bedplaces,Number,Hotels and similar accommodation,Toscana,2022,186514.0
+138,Bedplaces,Number,Hotels and similar accommodation,Toscana,2023,185930.0
+141,Bedplaces,Number,Hotels and similar accommodation,Umbria,2021,27470.0
+142,Bedplaces,Number,Hotels and similar accommodation,Umbria,2022,25223.0
+143,Bedplaces,Number,Hotels and similar accommodation,Umbria,2023,25255.0
+146,Bedplaces,Number,Hotels and similar accommodation,Marche,2021,53259.0
+147,Bedplaces,Number,Hotels and similar accommodation,Marche,2022,53246.0
+148,Bedplaces,Number,Hotels and similar accommodation,Marche,2023,52421.0
+151,Bedplaces,Number,Hotels and similar accommodation,Lazio,2021,185585.0
+152,Bedplaces,Number,Hotels and similar accommodation,Lazio,2022,184745.0
+153,Bedplaces,Number,Hotels and similar accommodation,Lazio,2023,178489.0
+185,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,200669.0
+186,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,201515.0
+187,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,203842.0
+190,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,57787.0
+191,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,57850.0
+192,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,55844.0
+195,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,152346.0
+196,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,154154.0
+197,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,154328.0
+200,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,398027.0
+201,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,410056.0
+202,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,412321.0
+210,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,116929.0
+211,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,118241.0
+212,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,120713.0
+215,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,11570.0
+216,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,11524.0
+217,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,11528.0
+220,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,228560.0
+221,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,233492.0
+222,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,240924.0
+225,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,294312.0
+226,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,315608.0
+227,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,301782.0
+230,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,36341.0
+231,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,37451.0
+232,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,38452.0
+235,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,181573.0
+236,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,185677.0
+237,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,173921.0
+245,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,210001.0
+246,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,215420.0
+247,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,219098.0
+250,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,218073.0
+251,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,222074.0
+252,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,223033.0
+260,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,229678.0
+261,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,239609.0
+262,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,250238.0
+265,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,165215.0
+266,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,167726.0
+267,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,172694.0
+270,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,733163.0
+271,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,741249.0
+272,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,765316.0
+275,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,158796.0
+276,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,156853.0
+277,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,160811.0
+280,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,450275.0
+281,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,451516.0
+282,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,453614.0
+290,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,578733.0
+291,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,581163.0
+292,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,592619.0
+295,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,87961.0
+296,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,85656.0
+297,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,86991.0
+300,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,177121.0
+301,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,180420.0
+302,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,176231.0
+305,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,433045.0
+306,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,432980.0
+307,Bedplaces,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,392816.0
+339,Bedplaces,Number,Holiday and other short-stay accommodation,Piemonte,2021,74931.0
+340,Bedplaces,Number,Holiday and other short-stay accommodation,Piemonte,2022,76276.0
+341,Bedplaces,Number,Holiday and other short-stay accommodation,Piemonte,2023,77817.0
+344,Bedplaces,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2021,16769.0
+345,Bedplaces,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2022,16837.0
+346,Bedplaces,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2023,15715.0
+349,Bedplaces,Number,Holiday and other short-stay accommodation,Liguria,2021,38590.0
+350,Bedplaces,Number,Holiday and other short-stay accommodation,Liguria,2022,40989.0
+351,Bedplaces,Number,Holiday and other short-stay accommodation,Liguria,2023,41965.0
+354,Bedplaces,Number,Holiday and other short-stay accommodation,Lombardia,2021,114980.0
+355,Bedplaces,Number,Holiday and other short-stay accommodation,Lombardia,2022,124699.0
+356,Bedplaces,Number,Holiday and other short-stay accommodation,Lombardia,2023,135998.0
+364,Bedplaces,Number,Holiday and other short-stay accommodation,Abruzzo,2021,28039.0
+365,Bedplaces,Number,Holiday and other short-stay accommodation,Abruzzo,2022,30452.0
+366,Bedplaces,Number,Holiday and other short-stay accommodation,Abruzzo,2023,34246.0
+369,Bedplaces,Number,Holiday and other short-stay accommodation,Molise,2021,3558.0
+370,Bedplaces,Number,Holiday and other short-stay accommodation,Molise,2022,3638.0
+371,Bedplaces,Number,Holiday and other short-stay accommodation,Molise,2023,3642.0
+374,Bedplaces,Number,Holiday and other short-stay accommodation,Campania,2021,67681.0
+375,Bedplaces,Number,Holiday and other short-stay accommodation,Campania,2022,71944.0
+376,Bedplaces,Number,Holiday and other short-stay accommodation,Campania,2023,79152.0
+379,Bedplaces,Number,Holiday and other short-stay accommodation,Puglia,2021,116475.0
+380,Bedplaces,Number,Holiday and other short-stay accommodation,Puglia,2022,138767.0
+381,Bedplaces,Number,Holiday and other short-stay accommodation,Puglia,2023,123067.0
+384,Bedplaces,Number,Holiday and other short-stay accommodation,Basilicata,2021,13148.0
+385,Bedplaces,Number,Holiday and other short-stay accommodation,Basilicata,2022,13362.0
+386,Bedplaces,Number,Holiday and other short-stay accommodation,Basilicata,2023,14186.0
+389,Bedplaces,Number,Holiday and other short-stay accommodation,Calabria,2021,33681.0
+390,Bedplaces,Number,Holiday and other short-stay accommodation,Calabria,2022,37646.0
+391,Bedplaces,Number,Holiday and other short-stay accommodation,Calabria,2023,36162.0
+399,Bedplaces,Number,Holiday and other short-stay accommodation,Sicilia,2021,64302.0
+400,Bedplaces,Number,Holiday and other short-stay accommodation,Sicilia,2022,70080.0
+401,Bedplaces,Number,Holiday and other short-stay accommodation,Sicilia,2023,73012.0
+404,Bedplaces,Number,Holiday and other short-stay accommodation,Sardegna,2021,58192.0
+405,Bedplaces,Number,Holiday and other short-stay accommodation,Sardegna,2022,61616.0
+406,Bedplaces,Number,Holiday and other short-stay accommodation,Sardegna,2023,64492.0
+414,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,62731.0
+415,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,70386.0
+416,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,75945.0
+419,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,37722.0
+420,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,38543.0
+421,Bedplaces,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,41092.0
+424,Bedplaces,Number,Holiday and other short-stay accommodation,Veneto,2021,330646.0
+425,Bedplaces,Number,Holiday and other short-stay accommodation,Veneto,2022,332522.0
+426,Bedplaces,Number,Holiday and other short-stay accommodation,Veneto,2023,361393.0
+429,Bedplaces,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2021,101017.0
+430,Bedplaces,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2022,99740.0
+431,Bedplaces,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2023,102966.0
+434,Bedplaces,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2021,91535.0
+435,Bedplaces,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2022,95074.0
+436,Bedplaces,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2023,97671.0
+444,Bedplaces,Number,Holiday and other short-stay accommodation,Toscana,2021,229237.0
+445,Bedplaces,Number,Holiday and other short-stay accommodation,Toscana,2022,230266.0
+446,Bedplaces,Number,Holiday and other short-stay accommodation,Toscana,2023,245311.0
+449,Bedplaces,Number,Holiday and other short-stay accommodation,Umbria,2021,49938.0
+450,Bedplaces,Number,Holiday and other short-stay accommodation,Umbria,2022,49879.0
+451,Bedplaces,Number,Holiday and other short-stay accommodation,Umbria,2023,52110.0
+454,Bedplaces,Number,Holiday and other short-stay accommodation,Marche,2021,61214.0
+455,Bedplaces,Number,Holiday and other short-stay accommodation,Marche,2022,65267.0
+456,Bedplaces,Number,Holiday and other short-stay accommodation,Marche,2023,68311.0
+459,Bedplaces,Number,Holiday and other short-stay accommodation,Lazio,2021,167160.0
+460,Bedplaces,Number,Holiday and other short-stay accommodation,Lazio,2022,167781.0
+461,Bedplaces,Number,Holiday and other short-stay accommodation,Lazio,2023,135856.0
+493,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,120777.0
+494,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,121333.0
+495,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,123663.0
+498,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,32867.0
+499,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,32815.0
+500,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,31236.0
+503,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,92655.0
+504,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,95413.0
+505,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,96205.0
+508,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,200238.0
+509,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,209989.0
+510,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,214969.0
+518,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,66618.0
+519,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,67803.0
+520,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,70237.0
+523,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,6595.0
+524,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,6675.0
+525,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,6679.0
+528,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,102474.0
+529,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,106859.0
+530,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,114067.0
+533,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,185194.0
+534,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,205959.0
+535,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,191242.0
+538,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,17504.0
+539,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,17718.0
+540,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,18542.0
+543,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,84554.0
+544,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,88182.0
+545,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,80020.0
+553,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,85959.0
+554,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,91802.0
+555,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,94556.0
+558,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,107286.0
+559,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,110800.0
+560,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,110483.0
+568,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,77773.0
+569,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,86060.0
+570,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,91810.0
+573,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,74661.0
+574,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,77267.0
+575,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,82125.0
+578,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,524533.0
+579,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,526539.0
+580,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,553070.0
+583,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,115611.0
+584,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,113934.0
+585,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,117160.0
+588,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,167396.0
+589,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,168607.0
+590,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,171691.0
+598,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,392991.0
+599,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,394649.0
+600,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,406689.0
+603,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,60491.0
+604,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,60433.0
+605,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,61736.0
+608,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,123862.0
+609,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,127174.0
+610,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,123810.0
+613,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,247460.0
+614,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,248235.0
+615,Bedplaces,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,214327.0
+647,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,45846.0
+648,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,45057.0
+649,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,45846.0
+652,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,16098.0
+653,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,15978.0
+654,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,15521.0
+657,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,54065.0
+658,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,54424.0
+659,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,54240.0
+662,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,85258.0
+663,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,85290.0
+664,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,78971.0
+672,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,38579.0
+673,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,37351.0
+674,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,35991.0
+677,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2021,3037.0
+678,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2022,3037.0
+679,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2023,3037.0
+682,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2021,34793.0
+683,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2022,34915.0
+684,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2023,34915.0
+687,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,68719.0
+688,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,67192.0
+689,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,68175.0
+692,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,4356.0
+693,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,4356.0
+694,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,4356.0
+697,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,50873.0
+698,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,50536.0
+699,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,43858.0
+707,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,21657.0
+708,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,21722.0
+709,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,21544.0
+712,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,49094.0
+713,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,49184.0
+714,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,45991.0
+722,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,15042.0
+723,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,15674.0
+724,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,15865.0
+727,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,36939.0
+728,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,38724.0
+729,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,41033.0
+732,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,193887.0
+733,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,194017.0
+734,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,191677.0
+737,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,14594.0
+738,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,14194.0
+739,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,14194.0
+742,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,75861.0
+743,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,73533.0
+744,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,74020.0
+752,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,163754.0
+753,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,164383.0
+754,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,161378.0
+757,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,10553.0
+758,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,10554.0
+759,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,9626.0
+762,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2021,62648.0
+763,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2022,61907.0
+764,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2023,55499.0
+767,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,80300.0
+768,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,80454.0
+769,Bedplaces,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,78471.0
+800,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2021,-0.92
+801,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2022,0.36
+802,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2023,0.0
+805,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2021,-1.01
+806,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2022,0.46
+807,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2023,-1.71
+810,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Liguria,2021,-1.45
+811,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Liguria,2022,-1.59
+812,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Liguria,2023,-1.05
+815,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2021,2.25
+816,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2022,1.15
+817,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2023,-1.36
+825,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2021,0.34
+826,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2022,0.25
+827,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2023,0.08
+830,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Molise,2021,-2.22
+831,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Molise,2022,-2.53
+832,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Molise,2023,0.0
+835,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Campania,2021,0.73
+836,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Campania,2022,0.43
+837,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Campania,2023,0.18
+840,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Puglia,2021,1.67
+841,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Puglia,2022,0.49
+842,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Puglia,2023,0.81
+845,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2021,-1.68
+846,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2022,4.76
+847,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2023,0.9
+850,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Calabria,2021,-0.93
+851,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Calabria,2022,0.49
+852,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Calabria,2023,-3.69
+860,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2021,-1.29
+861,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2022,-0.34
+862,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2023,0.75
+865,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2021,1.44
+866,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2022,0.44
+867,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2023,1.15
+875,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-0.09
+876,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,1.08
+877,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,3.18
+880,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-1.24
+881,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,-0.1
+882,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,0.12
+885,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Veneto,2021,-3.84
+886,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Veneto,2022,2.91
+887,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Veneto,2023,-1.15
+890,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2021,-0.01
+891,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2022,-0.62
+892,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2023,1.71
+895,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2021,2.38
+896,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2022,0.01
+897,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2023,-0.35
+905,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Toscana,2021,-0.35
+906,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Toscana,2022,0.42
+907,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Toscana,2023,-0.31
+910,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Umbria,2021,1.17
+911,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Umbria,2022,-8.18
+912,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Umbria,2023,0.13
+915,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Marche,2021,-0.73
+916,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Marche,2022,-0.02
+917,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Marche,2023,-1.55
+920,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lazio,2021,1.77
+921,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lazio,2022,-0.45
+922,Bedplaces,Percentage change on previous period,Hotels and similar accommodation,Lazio,2023,-3.39
+953,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,-0.34
+954,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,0.42
+955,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,1.15
+958,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,-0.01
+959,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,0.11
+960,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-3.47
+963,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,0.03
+964,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,1.19
+965,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,0.11
+968,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,1.93
+969,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,3.02
+970,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,0.55
+978,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,1.4
+979,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,1.12
+980,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,2.09
+983,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,0.98
+984,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,-0.4
+985,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.03
+988,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,1.46
+989,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,2.16
+990,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,3.18
+993,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,2.52
+994,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,7.24
+995,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,-4.38
+998,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,-0.71
+999,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,3.05
+1000,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,2.67
+1003,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-1.94
+1004,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,2.26
+1005,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-6.33
+1013,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,-1.38
+1014,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,2.58
+1015,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,1.71
+1018,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,0.47
+1019,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,1.83
+1020,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,0.43
+1028,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,0.32
+1029,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,4.32
+1030,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,4.44
+1033,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,-0.5
+1034,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,1.52
+1035,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,2.96
+1038,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-6.9
+1039,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,1.1
+1040,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,3.25
+1043,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,0.97
+1044,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,-1.22
+1045,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,2.52
+1048,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,1.9
+1049,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,0.28
+1050,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,0.46
+1058,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,1.41
+1059,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,0.42
+1060,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,1.97
+1063,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,0.46
+1064,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,-2.62
+1065,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,1.56
+1068,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-10.41
+1069,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,1.86
+1070,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,-2.32
+1073,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,2.88
+1074,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,-0.02
+1075,Bedplaces,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-9.28
+1106,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2021,-0.01
+1107,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2022,1.79
+1108,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2023,2.02
+1111,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2021,0.95
+1112,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2022,0.41
+1113,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2023,-6.66
+1116,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2021,3.53
+1117,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2022,6.22
+1118,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2023,2.38
+1121,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2021,2.3
+1122,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2022,8.45
+1123,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2023,9.06
+1131,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2021,4.57
+1132,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2022,8.61
+1133,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2023,12.46
+1136,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2021,6.43
+1137,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2022,2.25
+1138,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2023,0.11
+1141,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2021,4.06
+1142,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2022,6.3
+1143,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2023,10.02
+1146,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2021,4.52
+1147,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2022,19.14
+1148,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2023,-11.31
+1151,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2021,0.48
+1152,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2022,1.63
+1153,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2023,6.17
+1156,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2021,-5.68
+1157,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2022,11.77
+1158,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2023,-3.94
+1166,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2021,-1.04
+1167,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2022,8.99
+1168,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2023,4.18
+1171,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2021,6.62
+1172,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2022,5.88
+1173,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2023,4.67
+1181,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,0.83
+1182,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,12.2
+1183,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,7.9
+1186,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,-5.11
+1187,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,2.18
+1188,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,6.61
+1191,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2021,-12.11
+1192,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2022,0.57
+1193,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2023,8.68
+1196,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2021,1.42
+1197,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2022,-1.26
+1198,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2023,3.23
+1201,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2021,1.12
+1202,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2022,3.87
+1203,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2023,2.73
+1211,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2021,2.4
+1212,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2022,0.45
+1213,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2023,6.53
+1216,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2021,0.89
+1217,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2022,-0.12
+1218,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2023,4.47
+1221,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2021,-23.84
+1222,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2022,6.62
+1223,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2023,4.66
+1226,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2021,5.16
+1227,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2022,0.37
+1228,Bedplaces,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2023,-19.03
+1259,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,0.04
+1260,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,0.46
+1261,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,1.92
+1264,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,0.75
+1265,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,-0.16
+1266,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-4.81
+1269,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,1.01
+1270,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,2.98
+1271,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,0.83
+1274,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,1.61
+1275,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,4.87
+1276,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,2.37
+1284,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,2.21
+1285,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,1.78
+1286,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,3.59
+1289,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,3.53
+1290,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,1.21
+1291,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.06
+1294,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,2.37
+1295,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,4.28
+1296,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,6.75
+1299,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,3.03
+1300,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,11.21
+1301,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,-7.15
+1304,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,0.36
+1305,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,1.22
+1306,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,4.65
+1309,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-3.07
+1310,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,4.29
+1311,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-9.26
+1319,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,-1.5
+1320,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,6.8
+1321,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,3.0
+1324,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,-0.5
+1325,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,3.28
+1326,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,-0.29
+1334,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,1.13
+1335,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,10.66
+1336,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,6.68
+1339,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,0.42
+1340,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,3.49
+1341,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,6.29
+1344,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-8.07
+1345,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,0.38
+1346,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,5.04
+1349,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,1.34
+1350,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,-1.45
+1351,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,2.83
+1354,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,1.11
+1355,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,0.72
+1356,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,1.83
+1364,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,2.27
+1365,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,0.42
+1366,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,3.05
+1369,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,0.15
+1370,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,-0.1
+1371,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,2.16
+1374,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-14.01
+1375,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,2.67
+1376,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,-2.65
+1379,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,3.72
+1380,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,0.31
+1381,Bedplaces,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-13.66
+1412,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,0.12
+1413,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,-1.72
+1414,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,1.75
+1417,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,0.55
+1418,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,-0.75
+1419,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-2.86
+1422,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,-0.71
+1423,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,0.66
+1424,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,-0.34
+1427,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,0.69
+1428,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,0.04
+1429,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,-7.41
+1437,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,0.56
+1438,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,-3.18
+1439,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,-3.64
+1442,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2021,0.33
+1443,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2022,0.0
+1444,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.0
+1447,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2021,-0.78
+1448,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2022,0.35
+1449,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2023,0.0
+1452,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,0.59
+1453,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,-2.22
+1454,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,1.46
+1457,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,0.0
+1458,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,0.0
+1459,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,0.0
+1462,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-1.25
+1463,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,-0.66
+1464,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-13.21
+1472,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,-2.85
+1473,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,0.3
+1474,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,-0.82
+1477,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,-7.8
+1478,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,0.18
+1479,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,-6.49
+1487,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,2.43
+1488,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,4.2
+1489,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,1.22
+1492,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,6.78
+1493,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,4.83
+1494,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,5.96
+1497,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-0.24
+1498,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,0.07
+1499,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,-1.21
+1502,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,0.78
+1503,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,-2.74
+1504,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,0.0
+1507,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,1.1
+1508,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,-3.07
+1509,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,0.66
+1517,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,2.08
+1518,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,0.38
+1519,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,-1.83
+1522,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,-3.23
+1523,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,0.01
+1524,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,-8.79
+1527,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-1.6
+1528,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2022,-1.18
+1529,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2023,-10.35
+1532,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,0.85
+1533,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,0.19
+1534,Bedplaces,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-2.46
+1566,Bedrooms,Number,Hotels and similar accommodation,Piemonte,2021,39211.0
+1567,Bedrooms,Number,Hotels and similar accommodation,Piemonte,2022,39205.0
+1568,Bedrooms,Number,Hotels and similar accommodation,Piemonte,2023,39575.0
+1571,Bedrooms,Number,Hotels and similar accommodation,Valle d'Aosta,2021,10732.0
+1572,Bedrooms,Number,Hotels and similar accommodation,Valle d'Aosta,2022,10796.0
+1573,Bedrooms,Number,Hotels and similar accommodation,Valle d'Aosta,2023,10586.0
+1576,Bedrooms,Number,Hotels and similar accommodation,Liguria,2021,32388.0
+1577,Bedrooms,Number,Hotels and similar accommodation,Liguria,2022,31812.0
+1578,Bedrooms,Number,Hotels and similar accommodation,Liguria,2023,31534.0
+1581,Bedrooms,Number,Hotels and similar accommodation,Lombardia,2021,102237.0
+1582,Bedrooms,Number,Hotels and similar accommodation,Lombardia,2022,102612.0
+1583,Bedrooms,Number,Hotels and similar accommodation,Lombardia,2023,101031.0
+1591,Bedrooms,Number,Hotels and similar accommodation,Abruzzo,2021,24827.0
+1592,Bedrooms,Number,Hotels and similar accommodation,Abruzzo,2022,24874.0
+1593,Bedrooms,Number,Hotels and similar accommodation,Abruzzo,2023,24828.0
+1596,Bedrooms,Number,Hotels and similar accommodation,Molise,2021,2484.0
+1597,Bedrooms,Number,Hotels and similar accommodation,Molise,2022,2416.0
+1598,Bedrooms,Number,Hotels and similar accommodation,Molise,2023,2416.0
+1601,Bedrooms,Number,Hotels and similar accommodation,Campania,2021,58802.0
+1602,Bedrooms,Number,Hotels and similar accommodation,Campania,2022,59121.0
+1603,Bedrooms,Number,Hotels and similar accommodation,Campania,2023,59109.0
+1606,Bedrooms,Number,Hotels and similar accommodation,Puglia,2021,45136.0
+1607,Bedrooms,Number,Hotels and similar accommodation,Puglia,2022,45346.0
+1608,Bedrooms,Number,Hotels and similar accommodation,Puglia,2023,46136.0
+1611,Bedrooms,Number,Hotels and similar accommodation,Basilicata,2021,8417.0
+1612,Bedrooms,Number,Hotels and similar accommodation,Basilicata,2022,8665.0
+1613,Bedrooms,Number,Hotels and similar accommodation,Basilicata,2023,8770.0
+1616,Bedrooms,Number,Hotels and similar accommodation,Calabria,2021,43624.0
+1617,Bedrooms,Number,Hotels and similar accommodation,Calabria,2022,43714.0
+1618,Bedrooms,Number,Hotels and similar accommodation,Calabria,2023,41431.0
+1626,Bedrooms,Number,Hotels and similar accommodation,Sicilia,2021,53905.0
+1627,Bedrooms,Number,Hotels and similar accommodation,Sicilia,2022,53660.0
+1628,Bedrooms,Number,Hotels and similar accommodation,Sicilia,2023,54043.0
+1631,Bedrooms,Number,Hotels and similar accommodation,Sardegna,2021,46814.0
+1632,Bedrooms,Number,Hotels and similar accommodation,Sardegna,2022,47086.0
+1633,Bedrooms,Number,Hotels and similar accommodation,Sardegna,2023,47165.0
+1641,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,73765.0
+1642,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,74213.0
+1643,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,75720.0
+1646,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,46058.0
+1647,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,45968.0
+1648,Bedrooms,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,46015.0
+1651,Bedrooms,Number,Hotels and similar accommodation,Veneto,2021,106501.0
+1652,Bedrooms,Number,Hotels and similar accommodation,Veneto,2022,109724.0
+1653,Bedrooms,Number,Hotels and similar accommodation,Veneto,2023,108256.0
+1656,Bedrooms,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2021,20454.0
+1657,Bedrooms,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2022,20421.0
+1658,Bedrooms,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2023,20735.0
+1661,Bedrooms,Number,Hotels and similar accommodation,Emilia-Romagna,2021,142462.0
+1662,Bedrooms,Number,Hotels and similar accommodation,Emilia-Romagna,2022,142135.0
+1663,Bedrooms,Number,Hotels and similar accommodation,Emilia-Romagna,2023,141501.0
+1671,Bedrooms,Number,Hotels and similar accommodation,Toscana,2021,83398.0
+1672,Bedrooms,Number,Hotels and similar accommodation,Toscana,2022,83452.0
+1673,Bedrooms,Number,Hotels and similar accommodation,Toscana,2023,83190.0
+1676,Bedrooms,Number,Hotels and similar accommodation,Umbria,2021,13796.0
+1677,Bedrooms,Number,Hotels and similar accommodation,Umbria,2022,12667.0
+1678,Bedrooms,Number,Hotels and similar accommodation,Umbria,2023,12692.0
+1681,Bedrooms,Number,Hotels and similar accommodation,Marche,2021,26688.0
+1682,Bedrooms,Number,Hotels and similar accommodation,Marche,2022,25428.0
+1683,Bedrooms,Number,Hotels and similar accommodation,Marche,2023,24822.0
+1686,Bedrooms,Number,Hotels and similar accommodation,Lazio,2021,91893.0
+1687,Bedrooms,Number,Hotels and similar accommodation,Lazio,2022,91861.0
+1688,Bedrooms,Number,Hotels and similar accommodation,Lazio,2023,88767.0
+1719,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2021,-0.49
+1720,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2022,-0.02
+1721,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2023,0.94
+1724,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2021,-0.77
+1725,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2022,0.6
+1726,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2023,-1.95
+1729,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Liguria,2021,-1.53
+1730,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Liguria,2022,-1.78
+1731,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Liguria,2023,-0.87
+1734,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2021,1.71
+1735,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2022,0.37
+1736,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2023,-1.54
+1744,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2021,0.13
+1745,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2022,0.19
+1746,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2023,-0.18
+1749,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Molise,2021,-1.55
+1750,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Molise,2022,-2.74
+1751,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Molise,2023,0.0
+1754,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Campania,2021,0.66
+1755,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Campania,2022,0.54
+1756,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Campania,2023,-0.02
+1759,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Puglia,2021,0.27
+1760,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Puglia,2022,0.47
+1761,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Puglia,2023,1.74
+1764,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2021,-1.96
+1765,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2022,2.95
+1766,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2023,1.21
+1769,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Calabria,2021,-2.75
+1770,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Calabria,2022,0.21
+1771,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Calabria,2023,-5.22
+1779,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2021,-1.44
+1780,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2022,-0.45
+1781,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2023,0.71
+1784,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2021,1.34
+1785,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2022,0.58
+1786,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2023,0.17
+1794,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-0.12
+1795,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,0.61
+1796,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,2.03
+1799,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-1.3
+1800,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,-0.2
+1801,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,0.1
+1804,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Veneto,2021,-4.53
+1805,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Veneto,2022,3.03
+1806,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Veneto,2023,-1.34
+1809,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2021,0.22
+1810,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2022,-0.16
+1811,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2023,1.54
+1814,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2021,2.03
+1815,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2022,-0.23
+1816,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2023,-0.45
+1824,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Toscana,2021,-0.49
+1825,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Toscana,2022,0.06
+1826,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Toscana,2023,-0.31
+1829,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Umbria,2021,0.87
+1830,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Umbria,2022,-8.18
+1831,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Umbria,2023,0.2
+1834,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Marche,2021,-0.47
+1835,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Marche,2022,-4.72
+1836,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Marche,2023,-2.38
+1839,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lazio,2021,1.7
+1840,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lazio,2022,-0.03
+1841,Bedrooms,Percentage change on previous period,Hotels and similar accommodation,Lazio,2023,-3.37
+1873,Establishments,Number,Hotels and similar accommodation,Piemonte,2021,1356.0
+1874,Establishments,Number,Hotels and similar accommodation,Piemonte,2022,1355.0
+1875,Establishments,Number,Hotels and similar accommodation,Piemonte,2023,1336.0
+1878,Establishments,Number,Hotels and similar accommodation,Valle d'Aosta,2021,447.0
+1879,Establishments,Number,Hotels and similar accommodation,Valle d'Aosta,2022,446.0
+1880,Establishments,Number,Hotels and similar accommodation,Valle d'Aosta,2023,439.0
+1883,Establishments,Number,Hotels and similar accommodation,Liguria,2021,1263.0
+1884,Establishments,Number,Hotels and similar accommodation,Liguria,2022,1248.0
+1885,Establishments,Number,Hotels and similar accommodation,Liguria,2023,1237.0
+1888,Establishments,Number,Hotels and similar accommodation,Lombardia,2021,2809.0
+1889,Establishments,Number,Hotels and similar accommodation,Lombardia,2022,2818.0
+1890,Establishments,Number,Hotels and similar accommodation,Lombardia,2023,2743.0
+1898,Establishments,Number,Hotels and similar accommodation,Abruzzo,2021,776.0
+1899,Establishments,Number,Hotels and similar accommodation,Abruzzo,2022,773.0
+1900,Establishments,Number,Hotels and similar accommodation,Abruzzo,2023,774.0
+1903,Establishments,Number,Hotels and similar accommodation,Molise,2021,78.0
+1904,Establishments,Number,Hotels and similar accommodation,Molise,2022,76.0
+1905,Establishments,Number,Hotels and similar accommodation,Molise,2023,76.0
+1908,Establishments,Number,Hotels and similar accommodation,Campania,2021,1707.0
+1909,Establishments,Number,Hotels and similar accommodation,Campania,2022,1715.0
+1910,Establishments,Number,Hotels and similar accommodation,Campania,2023,1713.0
+1913,Establishments,Number,Hotels and similar accommodation,Puglia,2021,1066.0
+1914,Establishments,Number,Hotels and similar accommodation,Puglia,2022,1055.0
+1915,Establishments,Number,Hotels and similar accommodation,Puglia,2023,1070.0
+1918,Establishments,Number,Hotels and similar accommodation,Basilicata,2021,225.0
+1919,Establishments,Number,Hotels and similar accommodation,Basilicata,2022,229.0
+1920,Establishments,Number,Hotels and similar accommodation,Basilicata,2023,234.0
+1923,Establishments,Number,Hotels and similar accommodation,Calabria,2021,801.0
+1924,Establishments,Number,Hotels and similar accommodation,Calabria,2022,807.0
+1925,Establishments,Number,Hotels and similar accommodation,Calabria,2023,707.0
+1933,Establishments,Number,Hotels and similar accommodation,Sicilia,2021,1323.0
+1934,Establishments,Number,Hotels and similar accommodation,Sicilia,2022,1333.0
+1935,Establishments,Number,Hotels and similar accommodation,Sicilia,2023,1352.0
+1938,Establishments,Number,Hotels and similar accommodation,Sardegna,2021,934.0
+1939,Establishments,Number,Hotels and similar accommodation,Sardegna,2022,963.0
+1940,Establishments,Number,Hotels and similar accommodation,Sardegna,2023,1005.0
+1948,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,3934.0
+1949,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,3922.0
+1950,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,3917.0
+1953,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2021,1432.0
+1954,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2022,1420.0
+1955,Establishments,Number,Hotels and similar accommodation,Trentino-Alto Adige,2023,1427.0
+1958,Establishments,Number,Hotels and similar accommodation,Veneto,2021,2766.0
+1959,Establishments,Number,Hotels and similar accommodation,Veneto,2022,3146.0
+1960,Establishments,Number,Hotels and similar accommodation,Veneto,2023,3099.0
+1963,Establishments,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2021,775.0
+1964,Establishments,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2022,778.0
+1965,Establishments,Number,Hotels and similar accommodation,Friuli Venezia Giulia,2023,801.0
+1968,Establishments,Number,Hotels and similar accommodation,Emilia-Romagna,2021,4099.0
+1969,Establishments,Number,Hotels and similar accommodation,Emilia-Romagna,2022,4080.0
+1970,Establishments,Number,Hotels and similar accommodation,Emilia-Romagna,2023,4062.0
+1978,Establishments,Number,Hotels and similar accommodation,Toscana,2021,2719.0
+1979,Establishments,Number,Hotels and similar accommodation,Toscana,2022,2705.0
+1980,Establishments,Number,Hotels and similar accommodation,Toscana,2023,2712.0
+1983,Establishments,Number,Hotels and similar accommodation,Umbria,2021,490.0
+1984,Establishments,Number,Hotels and similar accommodation,Umbria,2022,447.0
+1985,Establishments,Number,Hotels and similar accommodation,Umbria,2023,446.0
+1988,Establishments,Number,Hotels and similar accommodation,Marche,2021,791.0
+1989,Establishments,Number,Hotels and similar accommodation,Marche,2022,783.0
+1990,Establishments,Number,Hotels and similar accommodation,Marche,2023,774.0
+1993,Establishments,Number,Hotels and similar accommodation,Lazio,2021,2318.0
+1994,Establishments,Number,Hotels and similar accommodation,Lazio,2022,2326.0
+1995,Establishments,Number,Hotels and similar accommodation,Lazio,2023,2270.0
+2027,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,6633.0
+2028,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,6657.0
+2029,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,6811.0
+2032,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,1275.0
+2033,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,1291.0
+2034,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,1273.0
+2037,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,5309.0
+2038,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,5295.0
+2039,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,5475.0
+2042,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,14035.0
+2043,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,15729.0
+2044,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,18669.0
+2052,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,3383.0
+2053,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,3468.0
+2054,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,3687.0
+2057,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,474.0
+2058,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,481.0
+2059,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,483.0
+2062,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,8510.0
+2063,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,9026.0
+2064,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,10273.0
+2067,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,9147.0
+2068,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,12734.0
+2069,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,10133.0
+2072,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,1487.0
+2073,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,1518.0
+2074,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,1642.0
+2077,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,3203.0
+2078,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,3607.0
+2079,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,3009.0
+2087,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,7630.0
+2088,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,8202.0
+2089,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,8495.0
+2092,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,5284.0
+2093,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,5499.0
+2094,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,5699.0
+2102,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,10719.0
+2103,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,11696.0
+2104,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,11834.0
+2107,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,3232.0
+2108,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,3273.0
+2109,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,3370.0
+2112,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,59472.0
+2113,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,53933.0
+2114,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,60056.0
+2117,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,8956.0
+2118,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,9300.0
+2119,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,9921.0
+2122,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,16815.0
+2123,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,17278.0
+2124,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,17677.0
+2132,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,17432.0
+2133,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,17926.0
+2134,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,19916.0
+2137,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,4334.0
+2138,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,4351.0
+2139,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,4692.0
+2142,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,4739.0
+2143,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,4937.0
+2144,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,5271.0
+2147,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,28388.0
+2148,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,28443.0
+2149,Establishments,Number,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,21145.0
+2181,Establishments,Number,Holiday and other short-stay accommodation,Piemonte,2021,5120.0
+2182,Establishments,Number,Holiday and other short-stay accommodation,Piemonte,2022,5148.0
+2183,Establishments,Number,Holiday and other short-stay accommodation,Piemonte,2023,5305.0
+2186,Establishments,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2021,756.0
+2187,Establishments,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2022,771.0
+2188,Establishments,Number,Holiday and other short-stay accommodation,Valle d'Aosta,2023,771.0
+2191,Establishments,Number,Holiday and other short-stay accommodation,Liguria,2021,3915.0
+2192,Establishments,Number,Holiday and other short-stay accommodation,Liguria,2022,3914.0
+2193,Establishments,Number,Holiday and other short-stay accommodation,Liguria,2023,4104.0
+2196,Establishments,Number,Holiday and other short-stay accommodation,Lombardia,2021,11010.0
+2197,Establishments,Number,Holiday and other short-stay accommodation,Lombardia,2022,12691.0
+2198,Establishments,Number,Holiday and other short-stay accommodation,Lombardia,2023,15720.0
+2206,Establishments,Number,Holiday and other short-stay accommodation,Abruzzo,2021,2521.0
+2207,Establishments,Number,Holiday and other short-stay accommodation,Abruzzo,2022,2610.0
+2208,Establishments,Number,Holiday and other short-stay accommodation,Abruzzo,2023,2829.0
+2211,Establishments,Number,Holiday and other short-stay accommodation,Molise,2021,381.0
+2212,Establishments,Number,Holiday and other short-stay accommodation,Molise,2022,390.0
+2213,Establishments,Number,Holiday and other short-stay accommodation,Molise,2023,392.0
+2216,Establishments,Number,Holiday and other short-stay accommodation,Campania,2021,6703.0
+2217,Establishments,Number,Holiday and other short-stay accommodation,Campania,2022,7208.0
+2218,Establishments,Number,Holiday and other short-stay accommodation,Campania,2023,8457.0
+2221,Establishments,Number,Holiday and other short-stay accommodation,Puglia,2021,7948.0
+2222,Establishments,Number,Holiday and other short-stay accommodation,Puglia,2022,11549.0
+2223,Establishments,Number,Holiday and other short-stay accommodation,Puglia,2023,8926.0
+2226,Establishments,Number,Holiday and other short-stay accommodation,Basilicata,2021,1254.0
+2227,Establishments,Number,Holiday and other short-stay accommodation,Basilicata,2022,1281.0
+2228,Establishments,Number,Holiday and other short-stay accommodation,Basilicata,2023,1400.0
+2231,Establishments,Number,Holiday and other short-stay accommodation,Calabria,2021,2287.0
+2232,Establishments,Number,Holiday and other short-stay accommodation,Calabria,2022,2684.0
+2233,Establishments,Number,Holiday and other short-stay accommodation,Calabria,2023,2202.0
+2241,Establishments,Number,Holiday and other short-stay accommodation,Sicilia,2021,6232.0
+2242,Establishments,Number,Holiday and other short-stay accommodation,Sicilia,2022,6791.0
+2243,Establishments,Number,Holiday and other short-stay accommodation,Sicilia,2023,7066.0
+2246,Establishments,Number,Holiday and other short-stay accommodation,Sardegna,2021,4271.0
+2247,Establishments,Number,Holiday and other short-stay accommodation,Sardegna,2022,4453.0
+2248,Establishments,Number,Holiday and other short-stay accommodation,Sardegna,2023,4616.0
+2256,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,6731.0
+2257,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,7716.0
+2258,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,7858.0
+2261,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,1670.0
+2262,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,1682.0
+2263,Establishments,Number,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,1745.0
+2266,Establishments,Number,Holiday and other short-stay accommodation,Veneto,2021,56537.0
+2267,Establishments,Number,Holiday and other short-stay accommodation,Veneto,2022,50618.0
+2268,Establishments,Number,Holiday and other short-stay accommodation,Veneto,2023,56791.0
+2271,Establishments,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2021,8152.0
+2272,Establishments,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2022,8495.0
+2273,Establishments,Number,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2023,9092.0
+2276,Establishments,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2021,12606.0
+2277,Establishments,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2022,13089.0
+2278,Establishments,Number,Holiday and other short-stay accommodation,Emilia-Romagna,2023,13504.0
+2286,Establishments,Number,Holiday and other short-stay accommodation,Toscana,2021,14486.0
+2287,Establishments,Number,Holiday and other short-stay accommodation,Toscana,2022,14976.0
+2288,Establishments,Number,Holiday and other short-stay accommodation,Toscana,2023,16963.0
+2291,Establishments,Number,Holiday and other short-stay accommodation,Umbria,2021,3812.0
+2292,Establishments,Number,Holiday and other short-stay accommodation,Umbria,2022,3872.0
+2293,Establishments,Number,Holiday and other short-stay accommodation,Umbria,2023,4213.0
+2296,Establishments,Number,Holiday and other short-stay accommodation,Marche,2021,3800.0
+2297,Establishments,Number,Holiday and other short-stay accommodation,Marche,2022,4003.0
+2298,Establishments,Number,Holiday and other short-stay accommodation,Marche,2023,4346.0
+2301,Establishments,Number,Holiday and other short-stay accommodation,Lazio,2021,25924.0
+2302,Establishments,Number,Holiday and other short-stay accommodation,Lazio,2022,25971.0
+2303,Establishments,Number,Holiday and other short-stay accommodation,Lazio,2023,18737.0
+2335,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,5277.0
+2336,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,5302.0
+2337,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,5475.0
+2340,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,828.0
+2341,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,845.0
+2342,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,834.0
+2345,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,4046.0
+2346,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,4047.0
+2347,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,4238.0
+2350,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,11226.0
+2351,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,12911.0
+2352,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,15926.0
+2360,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,2607.0
+2361,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,2695.0
+2362,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,2913.0
+2365,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,396.0
+2366,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,405.0
+2367,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,407.0
+2370,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,6803.0
+2371,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,7311.0
+2372,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,8560.0
+2375,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,8081.0
+2376,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,11679.0
+2377,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,9063.0
+2380,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,1262.0
+2381,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,1289.0
+2382,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,1408.0
+2385,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,2402.0
+2386,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,2800.0
+2387,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,2302.0
+2395,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,6307.0
+2396,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,6869.0
+2397,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,7143.0
+2400,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,4350.0
+2401,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,4536.0
+2402,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,4694.0
+2410,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,6785.0
+2411,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,7774.0
+2412,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,7917.0
+2415,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,1800.0
+2416,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,1853.0
+2417,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,1943.0
+2420,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,56706.0
+2421,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,50787.0
+2422,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,56957.0
+2425,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,8181.0
+2426,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,8522.0
+2427,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,9120.0
+2430,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,12716.0
+2431,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,13198.0
+2432,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,13615.0
+2440,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,14713.0
+2441,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,15221.0
+2442,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,17204.0
+2445,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,3844.0
+2446,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,3904.0
+2447,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,4246.0
+2450,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,3948.0
+2451,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,4154.0
+2452,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,4497.0
+2455,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,26070.0
+2456,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,26117.0
+2457,Establishments,Number,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,18875.0
+2489,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,157.0
+2490,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,154.0
+2491,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,170.0
+2494,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,72.0
+2495,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,74.0
+2496,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,63.0
+2499,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,131.0
+2500,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,133.0
+2501,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,134.0
+2504,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,216.0
+2505,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,220.0
+2506,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,206.0
+2514,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,86.0
+2515,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,85.0
+2516,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,84.0
+2519,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2021,15.0
+2520,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2022,15.0
+2521,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2023,15.0
+2524,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2021,100.0
+2525,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2022,103.0
+2526,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2023,103.0
+2529,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,133.0
+2530,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,130.0
+2531,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,137.0
+2534,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,8.0
+2535,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,8.0
+2536,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,8.0
+2539,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,115.0
+2540,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,116.0
+2541,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,100.0
+2549,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,75.0
+2550,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,78.0
+2551,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,77.0
+2554,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,79.0
+2555,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,83.0
+2556,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,78.0
+2564,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,54.0
+2565,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,58.0
+2566,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,59.0
+2569,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,130.0
+2570,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,171.0
+2571,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,198.0
+2574,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,169.0
+2575,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,169.0
+2576,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,166.0
+2579,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,29.0
+2580,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,27.0
+2581,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,28.0
+2584,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,110.0
+2585,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,109.0
+2586,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,111.0
+2594,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,227.0
+2595,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,245.0
+2596,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,241.0
+2599,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,32.0
+2600,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,32.0
+2601,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,33.0
+2604,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2021,148.0
+2605,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2022,151.0
+2606,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2023,151.0
+2609,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,146.0
+2610,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,146.0
+2611,Establishments,Number,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,138.0
+2642,Establishments,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2021,-1.53
+2643,Establishments,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2022,-0.07
+2644,Establishments,Percentage change on previous period,Hotels and similar accommodation,Piemonte,2023,-1.4
+2647,Establishments,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2021,-0.45
+2648,Establishments,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2022,-0.22
+2649,Establishments,Percentage change on previous period,Hotels and similar accommodation,Valle d'Aosta,2023,-1.57
+2652,Establishments,Percentage change on previous period,Hotels and similar accommodation,Liguria,2021,-1.48
+2653,Establishments,Percentage change on previous period,Hotels and similar accommodation,Liguria,2022,-1.19
+2654,Establishments,Percentage change on previous period,Hotels and similar accommodation,Liguria,2023,-0.88
+2657,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2021,1.12
+2658,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2022,0.32
+2659,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lombardia,2023,-2.66
+2667,Establishments,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2021,0.0
+2668,Establishments,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2022,-0.39
+2669,Establishments,Percentage change on previous period,Hotels and similar accommodation,Abruzzo,2023,0.13
+2672,Establishments,Percentage change on previous period,Hotels and similar accommodation,Molise,2021,-1.27
+2673,Establishments,Percentage change on previous period,Hotels and similar accommodation,Molise,2022,-2.56
+2674,Establishments,Percentage change on previous period,Hotels and similar accommodation,Molise,2023,0.0
+2677,Establishments,Percentage change on previous period,Hotels and similar accommodation,Campania,2021,0.89
+2678,Establishments,Percentage change on previous period,Hotels and similar accommodation,Campania,2022,0.47
+2679,Establishments,Percentage change on previous period,Hotels and similar accommodation,Campania,2023,-0.12
+2682,Establishments,Percentage change on previous period,Hotels and similar accommodation,Puglia,2021,3.29
+2683,Establishments,Percentage change on previous period,Hotels and similar accommodation,Puglia,2022,-1.03
+2684,Establishments,Percentage change on previous period,Hotels and similar accommodation,Puglia,2023,1.42
+2687,Establishments,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2021,-0.88
+2688,Establishments,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2022,1.78
+2689,Establishments,Percentage change on previous period,Hotels and similar accommodation,Basilicata,2023,2.18
+2692,Establishments,Percentage change on previous period,Hotels and similar accommodation,Calabria,2021,-1.48
+2693,Establishments,Percentage change on previous period,Hotels and similar accommodation,Calabria,2022,0.75
+2694,Establishments,Percentage change on previous period,Hotels and similar accommodation,Calabria,2023,-12.39
+2702,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2021,-0.23
+2703,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2022,0.76
+2704,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sicilia,2023,1.43
+2707,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2021,1.52
+2708,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2022,3.1
+2709,Establishments,Percentage change on previous period,Hotels and similar accommodation,Sardegna,2023,4.36
+2717,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-0.46
+2718,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,-0.31
+2719,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,-0.13
+2722,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2021,-1.85
+2723,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2022,-0.84
+2724,Establishments,Percentage change on previous period,Hotels and similar accommodation,Trentino-Alto Adige,2023,0.49
+2727,Establishments,Percentage change on previous period,Hotels and similar accommodation,Veneto,2021,-5.14
+2728,Establishments,Percentage change on previous period,Hotels and similar accommodation,Veneto,2022,13.74
+2729,Establishments,Percentage change on previous period,Hotels and similar accommodation,Veneto,2023,-1.49
+2732,Establishments,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2021,1.44
+2733,Establishments,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2022,0.39
+2734,Establishments,Percentage change on previous period,Hotels and similar accommodation,Friuli Venezia Giulia,2023,2.96
+2737,Establishments,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2021,1.49
+2738,Establishments,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2022,-0.46
+2739,Establishments,Percentage change on previous period,Hotels and similar accommodation,Emilia-Romagna,2023,-0.44
+2747,Establishments,Percentage change on previous period,Hotels and similar accommodation,Toscana,2021,-0.95
+2748,Establishments,Percentage change on previous period,Hotels and similar accommodation,Toscana,2022,-0.51
+2749,Establishments,Percentage change on previous period,Hotels and similar accommodation,Toscana,2023,0.26
+2752,Establishments,Percentage change on previous period,Hotels and similar accommodation,Umbria,2021,-0.81
+2753,Establishments,Percentage change on previous period,Hotels and similar accommodation,Umbria,2022,-8.78
+2754,Establishments,Percentage change on previous period,Hotels and similar accommodation,Umbria,2023,-0.22
+2757,Establishments,Percentage change on previous period,Hotels and similar accommodation,Marche,2021,0.0
+2758,Establishments,Percentage change on previous period,Hotels and similar accommodation,Marche,2022,-1.01
+2759,Establishments,Percentage change on previous period,Hotels and similar accommodation,Marche,2023,-1.15
+2762,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lazio,2021,1.18
+2763,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lazio,2022,0.35
+2764,Establishments,Percentage change on previous period,Hotels and similar accommodation,Lazio,2023,-2.41
+2795,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,-0.51
+2796,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,0.36
+2797,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,2.31
+2800,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,0.47
+2801,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,1.25
+2802,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-1.39
+2805,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,0.49
+2806,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,-0.26
+2807,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,3.4
+2810,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,8.41
+2811,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,12.07
+2812,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,18.69
+2820,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,3.42
+2821,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,2.51
+2822,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,6.31
+2825,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,4.64
+2826,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,1.48
+2827,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.42
+2830,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,4.02
+2831,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,6.06
+2832,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,13.82
+2835,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,4.11
+2836,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,39.22
+2837,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,-20.43
+2840,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,-0.47
+2841,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,2.08
+2842,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,8.17
+2845,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-3.2
+2846,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,12.61
+2847,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-16.58
+2855,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,-1.27
+2856,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,7.5
+2857,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,3.57
+2860,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,-6.51
+2861,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,4.07
+2862,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,3.64
+2870,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,0.53
+2871,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,9.11
+2872,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,1.18
+2875,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,-0.86
+2876,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,1.27
+2877,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,2.96
+2880,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-10.46
+2881,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,-9.31
+2882,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,11.35
+2885,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,5.94
+2886,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,3.84
+2887,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,6.68
+2890,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,2.99
+2891,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,2.75
+2892,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,2.31
+2900,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,1.91
+2901,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,2.83
+2902,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,11.1
+2905,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,1.48
+2906,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,0.39
+2907,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,7.84
+2910,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-44.2
+2911,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,4.18
+2912,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,6.77
+2915,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,5.83
+2916,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,0.19
+2917,Establishments,Percentage change on previous period,"Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-25.66
+2948,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2021,-0.23
+2949,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2022,0.55
+2950,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Piemonte,2023,3.05
+2953,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2021,0.27
+2954,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2022,1.98
+2955,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Valle d'Aosta,2023,0.0
+2958,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2021,1.19
+2959,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2022,-0.03
+2960,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Liguria,2023,4.85
+2963,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2021,10.6
+2964,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2022,15.27
+2965,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lombardia,2023,23.87
+2973,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2021,4.3
+2974,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2022,3.53
+2975,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Abruzzo,2023,8.39
+2978,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2021,6.13
+2979,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2022,2.36
+2980,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Molise,2023,0.51
+2983,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2021,4.93
+2984,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2022,7.53
+2985,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Campania,2023,17.33
+2988,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2021,4.21
+2989,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2022,45.31
+2990,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Puglia,2023,-22.71
+2993,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2021,-0.4
+2994,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2022,2.15
+2995,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Basilicata,2023,9.29
+2998,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2021,-3.91
+2999,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2022,17.36
+3000,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Calabria,2023,-17.96
+3008,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2021,-1.5
+3009,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2022,8.97
+3010,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sicilia,2023,4.05
+3013,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2021,-8.23
+3014,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2022,4.26
+3015,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Sardegna,2023,3.66
+3023,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,1.11
+3024,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,14.63
+3025,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,1.84
+3028,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2021,-3.24
+3029,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2022,0.72
+3030,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Trentino-Alto Adige,2023,3.75
+3033,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2021,-10.73
+3034,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2022,-10.47
+3035,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Veneto,2023,12.2
+3038,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2021,6.4
+3039,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2022,4.21
+3040,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Friuli Venezia Giulia,2023,7.03
+3043,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2021,3.51
+3044,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2022,3.83
+3045,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Emilia-Romagna,2023,3.17
+3053,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2021,2.44
+3054,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2022,3.38
+3055,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Toscana,2023,13.27
+3058,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2021,1.79
+3059,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2022,1.57
+3060,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Umbria,2023,8.81
+3063,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2021,-49.49
+3064,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2022,5.34
+3065,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Marche,2023,8.57
+3068,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2021,6.29
+3069,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2022,0.18
+3070,Establishments,Percentage change on previous period,Holiday and other short-stay accommodation,Lazio,2023,-27.85
+3101,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,-0.25
+3102,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,0.47
+3103,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,3.26
+3106,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,0.98
+3107,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,2.05
+3108,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-1.3
+3111,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,1.12
+3112,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,0.02
+3113,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,4.72
+3116,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,10.41
+3117,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,15.01
+3118,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,23.35
+3126,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,4.49
+3127,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,3.38
+3128,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,8.09
+3131,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2021,5.88
+3132,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2022,2.27
+3133,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.49
+3136,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2021,4.84
+3137,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2022,7.47
+3138,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Campania,2023,17.08
+3141,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,4.22
+3142,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,44.52
+3143,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,-22.4
+3146,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,-0.39
+3147,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,2.14
+3148,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,9.23
+3151,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-3.77
+3152,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,16.57
+3153,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-17.79
+3161,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,-1.48
+3162,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,8.91
+3163,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,3.99
+3166,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,-8.07
+3167,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,4.28
+3168,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,3.48
+3176,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,1.1
+3177,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,14.58
+3178,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,1.84
+3181,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,-0.06
+3182,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,2.94
+3183,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,4.86
+3186,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-10.7
+3187,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,-10.44
+3188,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,12.15
+3191,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,6.38
+3192,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,4.17
+3193,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,7.02
+3196,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,3.48
+3197,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,3.79
+3198,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,3.16
+3206,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,2.46
+3207,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,3.45
+3208,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,13.03
+3211,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,1.77
+3212,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,1.56
+3213,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,8.76
+3216,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-48.74
+3217,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2022,5.22
+3218,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Marche,2023,8.26
+3221,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,6.27
+3222,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,0.18
+3223,Establishments,Percentage change on previous period,"Holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-27.73
+3254,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2021,-0.63
+3255,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2022,-1.91
+3256,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Piemonte,2023,10.39
+3259,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2021,9.09
+3260,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2022,2.78
+3261,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Valle d'Aosta,2023,-14.86
+3264,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2021,-0.76
+3265,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2022,1.53
+3266,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Liguria,2023,0.75
+3269,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2021,1.41
+3270,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2022,1.85
+3271,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lombardia,2023,-6.36
+3279,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2021,10.26
+3280,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2022,-1.16
+3281,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Abruzzo,2023,-1.18
+3284,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2021,0.0
+3285,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2022,0.0
+3286,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Molise,2023,0.0
+3289,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2021,-0.99
+3290,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2022,3.0
+3291,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Campania,2023,0.0
+3294,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2021,4.72
+3295,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2022,-2.26
+3296,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Puglia,2023,5.38
+3299,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2021,0.0
+3300,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2022,0.0
+3301,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Basilicata,2023,0.0
+3304,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2021,-0.86
+3305,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2022,0.87
+3306,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Calabria,2023,-13.79
+3314,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2021,0.0
+3315,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2022,4.0
+3316,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sicilia,2023,-1.28
+3319,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2021,1.28
+3320,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2022,5.06
+3321,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Sardegna,2023,-6.02
+3329,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,0.0
+3330,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,7.41
+3331,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,1.72
+3334,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2021,73.33
+3335,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2022,31.54
+3336,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Trentino-Alto Adige,2023,15.79
+3339,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2021,-0.59
+3340,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2022,0.0
+3341,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Veneto,2023,-1.78
+3344,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2021,3.57
+3345,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2022,-6.9
+3346,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Friuli Venezia Giulia,2023,3.7
+3349,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2021,0.92
+3350,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2022,-0.91
+3351,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Emilia-Romagna,2023,1.83
+3359,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2021,3.65
+3360,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2022,7.93
+3361,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Toscana,2023,-1.63
+3364,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2021,0.0
+3365,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2022,0.0
+3366,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Umbria,2023,3.13
+3369,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2021,-16.85
+3370,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2022,2.03
+3371,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Marche,2023,0.0
+3374,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2021,3.55
+3375,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2022,0.0
+3376,Establishments,Percentage change on previous period,"Camping grounds, recreational vehicle parks and trailer parks",Lazio,2023,-5.48
