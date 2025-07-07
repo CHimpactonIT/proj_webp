@@ -29,21 +29,49 @@
   }})
 
 
+function showMetadataTab(tab, btn) {
+  // Tab highlight
+  document.querySelectorAll('.btn-metadata-tab').forEach(b => b.classList.remove('btn-metadata-active', 'active'));
+  if (btn) btn.classList.add('btn-metadata-active', 'active');
 
-function showMashupViz(containerIdToShow) {
-  document.querySelectorAll('.mashup-viz-container').forEach(div => div.style.display = 'none');
-  const targetDiv = document.getElementById(containerIdToShow);
-  if (targetDiv) {
-    targetDiv.style.display = 'block';
-    if (!targetDiv.dataset.rendered) {
-      if (containerIdToShow === 'mashup1-container') {
-        window.renderMashup1('mashup1-container');
-      } else if (containerIdToShow === 'mashup2-container') {
-        window.renderMashup2('mashup2-container');
-      } 
-      targetDiv.dataset.rendered = "true";
-    }
+  // Hide all
+  document.getElementById('metadata-cat').style.display = 'none';
+  document.getElementById('metadata-ds1').style.display = 'none';
+  document.getElementById('metadata-ds2').style.display = 'none';
+  document.getElementById('metadata-ds3').style.display = 'none';
+  document.getElementById('metadata-ds4').style.display = 'none';
+  document.getElementById('metadata-ds5').style.display = 'none';
+  document.getElementById('metadata-ds6').style.display = 'none';
+  document.getElementById('metadata-ds7').style.display = 'none';
+  document.getElementById('metadata-ds8').style.display = 'none';
+  document.getElementById('metadata-ds9').style.display = 'none';
+  document.getElementById('metadata-ds10').style.display = 'none';
+
+  // Show selected
+  if (tab === 'catalog') {
+    document.getElementById('metadata-cat').style.display = 'block';
+  } else if (tab === 'ds1') {
+    document.getElementById('metadata-ds1').style.display = 'block';
+  } else if (tab === 'ds2') {
+    document.getElementById('metadata-ds2').style.display = 'block';
+  } else if (tab === 'ds3') {
+    document.getElementById('metadata-ds3').style.display = 'block';
+  } else if (tab === 'ds4') {
+    document.getElementById('metadata-ds4').style.display = 'block';
+  } else if (tab === 'ds5') {
+    document.getElementById('metadata-ds5').style.display = 'block';
+  } else if (tab === 'ds6') {
+    document.getElementById('metadata-ds6').style.display = 'block';
+  } else if (tab === 'ds7') {
+    document.getElementById('metadata-ds7').style.display = 'block';
+  } else if (tab === 'ds8') {
+    document.getElementById('metadata-ds8').style.display = 'block';
+  } else if (tab === 'ds9') {
+    document.getElementById('metadata-ds9').style.display = 'block';
+  } else if (tab === 'ds10') {
+    document.getElementById('metadata-ds10').style.display = 'block';
   }
+
 }
 
 function showMashupViz(id, btn) {

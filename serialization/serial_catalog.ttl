@@ -1,0 +1,38 @@
+@prefix CHimpactonIT: <http://chimpactonit.github.io/proj_webp//> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat1: <https://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<chimpactonit.github.io/proj_webp/> dcat1:Dataset "D1",
+        "D10",
+        "D2",
+        "D3",
+        "D4",
+        "D5",
+        "D6",
+        "D7",
+        "D8",
+        "D9" .
+
+CHimpactonIT:catalog a dcat1:Catalog ;
+    dct:description "This catalog contains datasets about cultural heritage institutions, tourism activities and economic data in Italy, based on regions."@en ;
+    dct:identifier "CHImpactonITCatalogue",
+        "CHImpactonITCatalogue"^^xsd:string ;
+    dct:issued "2025-06-15"^^xsd:date ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:modified "2025-07-06"^^xsd:date ;
+    dct:publisher "CHimpactonIT" ;
+    dct:title "CH Impact on IT - Datasets Catalogue"@en .
+
+<https://creativecommons.org/licenses/by/4.0/> a cc:License ;
+    rdfs:label "Creative Commons CC-BY 4.0"@en ;
+    cc:legalcode <http://creativecommons.org/licenses/by/4.0/> ;
+    cc:permits cc:DerivativeWorks,
+        cc:Distribution,
+        cc:Reproduction ;
+    cc:requires cc:Attribution,
+        cc:Notice .
+

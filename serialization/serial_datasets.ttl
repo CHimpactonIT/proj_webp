@@ -1,0 +1,124 @@
+@prefix CHimpactonIT: <http://chimpactonit.github.io/proj_webp//> .
+@prefix dcat3: <https://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+CHimpactonIT:D1 a dcat3:Dataset ;
+    dct:creator "Eurostat" ;
+    dct:description "This dataset provides information on the number of tourist accommodation establishments, bedrooms, and bed places across different NUTS 2 regions in Italy."@en ;
+    dct:identifier "D1" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "Eurostat" ;
+    dct:rightsHolder "Eurostat" ;
+    dct:title "Establishments, bedrooms, and bed-places in tourist accommodation (NUTS 2 region)"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Establishments, bedrooms, and bed-places in tourist accommodation (NUTS 2 region)"@en .
+
+CHimpactonIT:D10 a dcat3:Dataset ;
+    dct:creator "ISTAT" ;
+    dct:description "This dataset provides information on household net income, broken down by different sources of income (e.g., wages, pensions, business income) at various territorial levels."@en ;
+    dct:identifier "D10" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "ISTAT" ;
+    dct:rightsHolder "ISTAT" ;
+    dct:title "Household Net Income by Source of Income"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Household Net Income by Source of Income"@en .
+
+CHimpactonIT:D2 a dcat3:Dataset ;
+    dct:creator "Eurostat" ;
+    dct:description "This dataset presents the number of guest nights booked through short-term rental platforms (e.g., Airbnb, Booking.com)."@en ;
+    dct:identifier "D2" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "Eurostat" ;
+    dct:rightsHolder "Eurostat" ;
+    dct:title "Guest nights spent at short-stay accommodations via collaborative economy platforms (NUTS 3 region)"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Guest nights spent at short-stay accommodations via collaborative economy platforms (NUTS 3 region)"@en .
+
+CHimpactonIT:D3 a dcat3:Dataset ;
+    dct:creator "ISTAT" ;
+    dct:description "This dataset provides detailed monthly occupancy statistics for different types of tourist accommodations across Italy, categorized by NACE rev. 2 industry codes."@en ;
+    dct:identifier "D3" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "ISTAT" ;
+    dct:rightsHolder "ISTAT" ;
+    dct:title "Occupancy in collective tourist accomodation by type of accomodation"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Occupancy in collective tourist accomodation by type of accomodation"@en .
+
+CHimpactonIT:D4 a dcat3:Dataset ;
+    dct:creator "Eurostat" ;
+    dct:description "This dataset tracks the number of tourist arrivals at accommodation establishments across NUTS 2 regions in Italy."@en ;
+    dct:identifier "D4" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "Eurostat" ;
+    dct:rightsHolder "Eurostat" ;
+    dct:title "Arrivals at tourist accommodation establishments by NUTS 2 region"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Arrivals at tourist accommodation establishments by NUTS 2 region"@en .
+
+CHimpactonIT:D5 a dcat3:Dataset ;
+    dct:creator "Eurostat" ;
+    dct:description "This dataset reports the total number of nights spent by tourists in accommodations across NUTS 2 regions."@en ;
+    dct:identifier "D5" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "Eurostat" ;
+    dct:rightsHolder "Eurostat" ;
+    dct:title "Nights spent at tourist accommodation establishments by NUTS 2 region"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Nights spent at tourist accommodation establishments by NUTS 2 region"@en .
+
+CHimpactonIT:D6 a dcat3:Dataset ;
+    dct:creator "Eurostat" ;
+    dct:description "This dataset provides net occupancy rates of bed places and bedrooms in hotels and similar accommodations (NACE Rev. 2 activity I55.1) at the NUTS 2 regional level."@en ;
+    dct:identifier "D6" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "Eurostat" ;
+    dct:rightsHolder "Eurostat" ;
+    dct:title "Occupancy in tourist accommodation, by NUTS 2 region"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Occupancy in tourist accommodation, by NUTS 2 region"@en .
+
+CHimpactonIT:D7 a dcat3:Dataset ;
+    dct:creator "MiC – Direzione generale Organizzazione" ;
+    dct:description "Data from DBUnico 2.0 describing state and non-state cultural sites, managed and updated by the General Directorate for Organization."@en ;
+    dct:identifier "D7" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "MiC – Direzione generale Organizzazione" ;
+    dct:rightsHolder "MiC – Direzione generale Organizzazione" ;
+    dct:title "Luoghi della cultura"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Luoghi della cultura"@en .
+
+CHimpactonIT:D8 a dcat3:Dataset ;
+    dct:creator "ISTAT" ;
+    dct:description "This dataset provides a breakdown of Italy's GDP by analyzing the value added by different economic sectors, such as agriculture, industry, and services."@en ;
+    dct:identifier "D8" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "ISTAT" ;
+    dct:rightsHolder "ISTAT" ;
+    dct:title "Gross domestic product supply side"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Gross domestic product supply side"@en .
+
+CHimpactonIT:D9 a dcat3:Dataset ;
+    dct:creator "ISTAT" ;
+    dct:description "This dataset provides employment data categorized by economic sector based on the 2010 classification."@en ;
+    dct:identifier "D9" ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:publisher "ISTAT" ;
+    dct:rightsHolder "ISTAT" ;
+    dct:title "Employment by Economic Sector (2010 Classification)"@en ;
+    dcat3:distribution ".csv, .tsv, .xlsx, SDMX (.xml, .json)" ;
+    dcat3:title "Employment by Economic Sector (2010 Classification)"@en .
+
